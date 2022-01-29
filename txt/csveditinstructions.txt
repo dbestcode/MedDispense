@@ -1,0 +1,19 @@
+---	Manual editing of the data files ---
+(press any key to skip this screen)
+
+These files must be in the following format:
+
+Medications:
+123456789,MedicationName
+
+Patient:
+LastName,FirstName,35574262,Folkenflik-David-MAR.txt
+
+Student
+1111111116,firstname,lastname,DateSignedUp
+
+ONLY USE COMMAS AS YOU SEE HERE,
+DO NOT PUT THEM IN NAMES OF THINGS OR PEOPLE
+
+When you are done save and close note pad, 
+be very careful as these may not have been backedup recently.

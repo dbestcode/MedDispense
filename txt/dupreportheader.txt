@@ -1,0 +1,7 @@
+------------------------Duplicate report------------------------------- 
+
+ Find and remove all items listed from cart.
+ Check to see which itemas are vaild, or need a new barcode.
+ Once all are removed rune 'Remove All Duplicates'.
+ You will need to rescan all items back into inventory after this process.
+-----------------------------------------------------------------------

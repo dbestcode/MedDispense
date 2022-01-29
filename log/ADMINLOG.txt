@@ -1,0 +1,1432 @@
+AdministrationHelper:Login, Nick, Thu 12/06/2018, 13:46:24.33
+AddDrugs.bat:Login, Nick, Thu 12/06/2018, 13:46:26.27
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Nicholai, Thu 12/06/2018, 13:53:52.18
+AddDrugs.bat:Login, Nicholai, Thu 12/06/2018, 13:53:54.80
+dupssdrugs:LOGIN, , Thu 12/06/2018, 13:54:05.00
+dupssdrugs:DUPLICATE REPORT, , Thu 12/06/2018, 13:54:08.97
+dupssdrugs:REMOVE DUPS SELECTED, , Thu 12/06/2018, 13:54:14.18
+AdministrationHelper:EDITING 'ScannedDrugs.csv', Nicholai, Thu 12/06/2018, 13:54:28.47
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, Nicholai, Thu 12/06/2018, 13:54:36.15
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', Nicholai, Thu 12/06/2018, 13:54:50.76
+AdministrationHelper:EDITING PATIENTS, Nicholai, Thu 12/06/2018, 13:55:03.39
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Thu 12/06/2018, 14:02:17.24
+AdministrationHelper:HELP, Best, Thu 12/06/2018, 14:02:45.88
+AddStudents:Login, , Thu 12/06/2018, 14:06:35.41
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, nick, Thu 12/06/2018, 14:12:56.22
+AddStudents:Login, , Thu 12/06/2018, 14:12:59.90
+AddStudents:ADDED 1 STUDENTS, nick, Thu 12/06/2018, 14:13:52.43
+dupssdrugs:LOGIN, , Thu 12/06/2018, 14:20:28.08
+dupssdrugs:DUPLICATE REPORT, , Thu 12/06/2018, 14:20:31.63
+AdministrationHelper:Login, nick, Thu 12/06/2018, 14:35:22.45
+AdministrationHelper:Login, nick, Thu 12/06/2018, 14:35:56.75
+AdministrationHelper:Login, ck, Thu 12/06/2018, 15:12:37.79
+AdministrationHelper:EDITING 'MissingScans.csv', ck, Thu 12/06/2018, 15:12:46.85
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:13:14.61
+AdministrationHelper:EDITING 'MissingScans.csv', nick, Thu 12/06/2018, 15:13:17.25
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:15:54.93
+AdministrationHelper:EDITING 'MissingScans.csv', nick, Thu 12/06/2018, 15:15:59.96
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Thu 12/06/2018, 15:18:52.47
+AdministrationHelper:EDITING 'MissingScans.csv', Best, Thu 12/06/2018, 15:18:56.89
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:20:48.71
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:22:33.34
+AdministrationHelper:EDITING 'MissingScans.csv', nick, Thu 12/06/2018, 15:22:38.88
+AddDrugs:Login, nick, Thu 12/06/2018, 15:28:53.56
+AddDrugs:Login, , Thu 12/06/2018, 15:29:47.89
+AddDrugs:Login, , Thu 12/06/2018, 15:30:00.58
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:30:42.99
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:31:11.13
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', nick, Thu 12/06/2018, 15:31:16.80
+AddDrugs:Login, nick, Thu 12/06/2018, 15:31:58.69
+AddDrugs:ADDED ITEM:11273561,ondansetron 4mg tab, nick, Thu 12/06/2018, 15:32:33.00
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', nick, Thu 12/06/2018, 15:32:59.25
+AddDrugs:Login, nick, Thu 12/06/2018, 15:33:29.47
+AddDrugs:ADDED ITEM:10002070,levofloxacin 750mg tab, nick, Thu 12/06/2018, 15:33:58.33
+AdministrationHelper:EDITING 'MissingScans.csv', nick, Thu 12/06/2018, 15:34:17.56
+AddDrugs:Login, nick, Thu 12/06/2018, 15:42:53.18
+AddDrugs:ADDED ITEM:10001479,NaCl nasal spray 0.65%, nick, Thu 12/06/2018, 15:43:43.85
+AddDrugs:ADDED ITEM:11657217,simvastatin 20mg tab, nick, Thu 12/06/2018, 15:44:41.10
+AddDrugs:ADDED ITEM:15449528,Mg Sulfate 4g/100ml sterile H20, nick, Thu 12/06/2018, 15:45:42.18
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', nick, Thu 12/06/2018, 15:50:58.66
+AddDrugs:Login, nick, Thu 12/06/2018, 15:53:49.74
+AddDrugs:Login, , Thu 12/06/2018, 15:55:38.80
+AddDrugs:Login, , Thu 12/06/2018, 15:56:30.27
+AdministrationHelper:Login, nick, Thu 12/06/2018, 15:57:25.30
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', nick, Thu 12/06/2018, 15:57:39.05
+AdministrationHelper:Login, best, Thu 12/06/2018, 16:02:43.71
+AdministrationHelper:EDITING 'ScannedDrugs.csv', best, Thu 12/06/2018, 16:03:03.09
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Thu 12/06/2018, 16:03:31.09
+AdministrationHelper:COMBINED SCANED MEDS, best, Thu 12/06/2018, 16:03:31.09
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Fri 12/07/2018, 11:05:58.23
+AddDrugs:Login, best, Fri 12/07/2018, 11:06:01.73
+AdministrationHelper:Login, best, Fri 12/07/2018, 11:07:08.00
+AdministrationHelper:EDITING 'ScannedDrugs.csv', best, Fri 12/07/2018, 11:07:17.06
+dupssdrugs:LOGIN, best, Fri 12/07/2018, 11:07:34.30
+dupssdrugs:DUPLICATE REPORT, best, Fri 12/07/2018, 11:07:37.14
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Fri 12/07/2018, 11:21:46.39
+AddPatients:Login, Best, Fri 12/07/2018, 11:21:50.70
+AddPatients:ADDED PT:Givens, Kathy, Best, Fri 12/07/2018, 11:22:12.50
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Fri 12/07/2018, 13:06:46.59
+AdministrationHelper:EDITING PATIENTS, Best, Fri 12/07/2018, 13:06:54.14
+AdministrationHelper:EDITING PATIENTS, Best, Fri 12/07/2018, 13:27:30.81
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Mon 12/10/2018, 15:11:48.49
+AddDrugs:Login, Best, Mon 12/10/2018, 15:11:51.06
+AddDrugs:ADDED ITEM:306030024369,aspirin 81mg(chewable), Best, Mon 12/10/2018, 15:12:27.52
+dupssdrugs:LOGIN, Best, Mon 12/10/2018, 15:14:07.89
+dupssdrugs:DUPLICATE REPORT, Best, Mon 12/10/2018, 15:14:09.43
+dupssdrugs:DUPLICATE REPORT, Best, Mon 12/10/2018, 15:14:15.80
+AdministrationHelper:Login, best, Tue 12/11/2018, 15:12:21.67
+AddDrugs:Login, best, Tue 12/11/2018, 15:12:23.48
+AddDrugs:ADDED ITEM:99123451,MiraLAX 1g/ml, best, Tue 12/11/2018, 15:12:43.30
+AddDrugs:ADDED ITEM:20556891,lisinopril 10mg tab, best, Tue 12/11/2018, 15:14:18.85
+AddDrugs:ADDED ITEM:371065746258,furosemide 10mg/ml, best, Tue 12/11/2018, 15:18:55.44
+AddDrugs:ADDED ITEM:57846989,KCL 20meq/15ml, best, Tue 12/11/2018, 15:21:22.69
+AdministrationHelper:Login, best, Thu 12/13/2018, 15:48:33.55
+AddDrugs:Login, best, Thu 12/13/2018, 15:48:35.61
+AddDrugs:ADDED ITEM:043900181509,Isosource food, best, Thu 12/13/2018, 15:48:58.08
+LOGOUT------------------------------------------------------------------------------
+AddDrugs:ADDED ITEM:99654214,lisinopril 25mg tab, Best, Fri 12/21/2018, 10:57:24.98
+AddDrugs:ADDED ITEM:24658119,dexamethazone 4mg/ml inj, Best, Fri 12/21/2018, 11:09:46.60
+AddDrugs:ADDED ITEM:44756208,calcium gluconate 10% 1g/10mL, Best, Fri 12/21/2018, 11:27:00.57
+AddDrugs:ADDED ITEM:20132521,diphenhydrAMINE 25mg/mL inj, Best, Fri 12/21/2018, 11:43:14.27
+AdministrationHelper:Login, best, Fri 01/04/2019,  9:55:00.22
+AddDrugs:Login, best, Fri 01/04/2019,  9:55:04.48
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Fri 01/04/2019, 10:37:44.21
+AddDrugs:Login, best, Fri 01/04/2019, 10:37:45.80
+AddDrugs:ADDED ITEM:367618150047,betadine 10% DO NOT USE ON MANIKINS, best, Fri 01/04/2019, 10:39:00.43
+AdministrationHelper:Login, best, Mon 01/07/2019, 10:24:56.46
+AddDrugs:Login, best, Mon 01/07/2019, 10:25:01.31
+AddDrugs:ADDED ITEM:59,testsyrnge, best, Mon 01/07/2019, 10:25:16.49
+AdministrationHelper:Login, best, Tue 01/08/2019,  9:00:47.52
+AddDrugs:Login, best, Tue 01/08/2019,  9:00:51.48
+AddDrugs:ADDED ITEM:95334639,heparin 5000u/mL, best, Tue 01/08/2019,  9:01:17.44
+AdministrationHelper:EDITING 'ScannedDrugs.csv', best, Tue 01/08/2019,  9:05:45.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', best, Tue 01/08/2019,  9:06:19.71
+AddDrugs:Login, best, Tue 01/08/2019,  9:06:43.62
+AddDrugs:ADDED ITEM:46818751,insulin aspart 100u/ml, best, Tue 01/08/2019,  9:07:41.86
+AdministrationHelper:Login, best, Tue 01/08/2019,  9:08:05.49
+AddDrugs:Login, best, Tue 01/08/2019,  9:08:13.12
+AddDrugs:ADDED ITEM:46818751,insulin aspart 100u/ml, best, Tue 01/08/2019,  9:08:31.00
+AddDrugs:ADDED ITEM:10000267,glipizide 5mg tab, best, Tue 01/08/2019,  9:22:26.66
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', best, Tue 01/08/2019,  9:22:39.92
+AddDrugs:Login, best, Tue 01/08/2019,  9:23:11.80
+dupssdrugs:LOGIN, best, Tue 01/08/2019,  9:23:26.99
+dupssdrugs:DUPLICATE REPORT, best, Tue 01/08/2019,  9:23:29.94
+dupssdrugs:DUPLICATE REPORT, best, Tue 01/08/2019,  9:23:43.09
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Tue 01/08/2019,  9:24:04.59
+AdministrationHelper:COMBINED SCANED MEDS, best, Tue 01/08/2019,  9:24:04.59
+AddDrugs:Login, best, Tue 01/08/2019,  9:25:09.66
+AddDrugs:ADDED ITEM:0904504661,captopril 25mg tab, best, Tue 01/08/2019,  9:37:19.02
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Tue 01/08/2019,  9:54:56.23
+AddDrugs:Login, best, Tue 01/08/2019,  9:54:58.99
+AddDrugs:ADDED ITEM:55426114,atorvastatin(practi-LIPIT) 10mg tab, best, Tue 01/08/2019, 11:15:45.36
+AddDrugs:ADDED ITEM:35690528,benazepril (practi-LOTEN) 20mg, best, Tue 01/08/2019, 11:17:20.62
+AddDrugs:ADDED ITEM:11056126,multi-vitamin(MVit) tab, best, Tue 01/08/2019, 11:18:48.71
+AddDrugs:ADDED ITEM:77325686,bupropion (WELLB) 100mg tab, best, Tue 01/08/2019, 11:20:17.49
+AddDrugs:ADDED ITEM:10120125,digoxin 0.25 mg tab, best, Tue 01/08/2019, 11:21:00.70
+AddDrugs:ADDED ITEM:65235485,albuterol unit dose, best, Tue 01/08/2019, 11:21:43.52
+AddDrugs:ADDED ITEM:11236405,warfarin (COUMA) 5mg tab, best, Tue 01/08/2019, 11:22:18.26
+AddDrugs:ADDED ITEM:20134501,ASA 325 mg tab, best, Tue 01/08/2019, 11:49:08.09
+AddDrugs:ADDED ITEM:20193454,hydrochlorothiazide 12.5 mg, best, Tue 01/08/2019, 11:49:50.77
+AddDrugs:ADDED ITEM:20183103,losartan 50 mg tab, best, Tue 01/08/2019, 11:50:09.96
+AddDrugs:ADDED ITEM:30009318,clopidogrel 75 mg tab, best, Tue 01/08/2019, 11:50:31.58
+AddDrugs:ADDED ITEM:664113930236,temazapam 15mg cap, best, Tue 01/08/2019, 12:00:02.84
+AddDrugs:ADDED ITEM:664113100059,docusate (COLAC) 50mg, best, Tue 01/08/2019, 12:02:32.76
+AdministrationHelper:Login, best, Tue 01/08/2019, 14:36:31.92
+AddDrugs:Login, best, Tue 01/08/2019, 14:36:37.66
+AddDrugs:ADDED ITEM:19853048,pipercillin/tazobactam 3g/.375 50mL , best, Tue 01/08/2019, 14:37:11.86
+AddDrugs:ADDED ITEM:10120484,heparin 20Ku in 250mL in NSS, best, Tue 01/08/2019, 14:37:50.31
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Tue 01/08/2019, 16:23:21.38
+AddDrugs:Login, best, Tue 01/08/2019, 16:23:23.28
+AdministrationHelper:Login, best, Tue 01/08/2019, 16:31:44.88
+AdministrationHelper:EDITING 'ScannedDrugs.csv', best, Tue 01/08/2019, 16:31:55.26
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Tue 01/08/2019, 16:32:20.47
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Tue 01/08/2019, 16:32:33.21
+dupssdrugs:LOGIN, best, Tue 01/08/2019, 16:32:49.97
+dupssdrugs:DUPLICATE REPORT, best, Tue 01/08/2019, 16:32:52.35
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Tue 01/08/2019, 16:33:06.41
+AdministrationHelper:COMBINED SCANED MEDS, best, Tue 01/08/2019, 16:33:06.41
+AddPatients:Login, best, Tue 01/08/2019, 16:33:36.42
+AddPatients:PT:Yoder  EXSITS, best, Tue 01/08/2019, 16:33:41.82
+AddPatients:PT:Shapiro  EXSITS, best, Tue 01/08/2019, 16:33:55.35
+AddPatients:PT:Smith  EXSITS, best, Tue 01/08/2019, 16:34:11.27
+AdministrationHelper:EDITING PATIENTS, best, Tue 01/08/2019, 16:34:21.65
+AddPatients:Login, best, Tue 01/08/2019, 16:35:15.01
+AddPatients:PT:Morales  EXSITS, best, Tue 01/08/2019, 16:35:18.95
+AddPatients:PT:Edwards  EXSITS, best, Tue 01/08/2019, 16:35:30.71
+AdministrationHelper:EDITING 'MissingScans.csv', best, Tue 01/08/2019, 16:35:43.94
+AddDrugs:Login, best, Tue 01/08/2019, 16:35:50.77
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Tue 01/08/2019, 16:40:00.23
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Wed 01/09/2019,  8:54:53.56
+AddDrugs:Login, best, Wed 01/09/2019,  8:54:54.63
+AddDrugs:ADDED ITEM:325825836925,promethazine 25mg/mL, best, Wed 01/09/2019,  9:05:31.51
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Mon 01/14/2019,  9:57:02.48
+AddStudents:Login, best, Mon 01/14/2019,  9:58:07.79
+AddStudents:Login, , Mon 01/14/2019, 10:00:17.46
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 14:45:13.11
+AddStudents:Login, , Mon 01/14/2019, 14:46:30.07
+AddStudents:Login, , Mon 01/14/2019, 14:47:21.89
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 14:49:02.46
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 14:58:43.15
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 15:10:07.17
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 15:10:47.45
+AddStudents:Login, 3141592653589, Mon 01/14/2019, 15:12:50.89
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Mon 01/14/2019, 15:13:05.59
+AdministrationHelper:Login, Best, Tue 01/15/2019,  9:33:13.34
+AddPatients:Login, Best, Tue 01/15/2019,  9:33:22.17
+AddPatients:PT:Spree  EXSITS, Best, Tue 01/15/2019,  9:33:26.95
+AddPatients:PT:Forrester  EXSITS, Best, Tue 01/15/2019,  9:33:33.17
+AddPatients:PT:Givens  EXSITS, Best, Tue 01/15/2019,  9:33:44.56
+AddPatients:ADDED PT:Geyer, Rebecca, Best, Tue 01/15/2019,  9:34:11.98
+AddPatients:PT:Geyer  EXSITS, Best, Tue 01/15/2019,  9:34:16.69
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Tue 01/15/2019, 12:10:33.62
+AddDrugs:Login, Best, Tue 01/15/2019, 12:10:35.73
+AddDrugs:ADDED ITEM:31204606,olanzapine 10mg tab, Best, Tue 01/15/2019, 12:10:54.01
+AddDrugs:ADDED ITEM:66662303,valproic acid 500mg tab, Best, Tue 01/15/2019, 12:11:41.39
+AddDrugs:ADDED ITEM:26009650,benztropine 1mg/mL, Best, Tue 01/15/2019, 12:12:16.00
+AddDrugs:ADDED ITEM:30164239,lorazepam 2mg tab, Best, Tue 01/15/2019, 12:12:36.36
+AddDrugs:ADDED ITEM:75215668,lorazepam 2mg/mL, Best, Tue 01/15/2019, 12:13:14.83
+AddDrugs:ADDED ITEM:90042546,benztropine 1mg tab, Best, Tue 01/15/2019, 12:13:35.38
+AddDrugs:ADDED ITEM:90462252,haloperidol 5mg tab, Best, Tue 01/15/2019, 12:14:09.56
+AddDrugs:ADDED ITEM:90610257,haloperidol 5mg/mL, Best, Tue 01/15/2019, 12:14:39.37
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Wed 01/16/2019, 11:40:10.92
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Wed 01/16/2019, 11:40:17.23
+AddStudents:Login, 3141592653589, Mon 01/21/2019, 16:25:16.78
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Mon 01/21/2019, 16:25:24.87
+AddStudents:Login, 3141592653589, Tue 01/22/2019, 15:18:37.03
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Tue 01/22/2019, 15:19:10.23
+AddStudents:Login, 3141592653589, Wed 01/23/2019,  7:32:02.53
+AddStudents:Login, 3141592653589, Wed 01/23/2019,  7:33:07.07
+AdministrationHelper:Login, best, Wed 01/23/2019,  7:34:41.70
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Wed 01/23/2019,  8:08:42.47
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Wed 01/23/2019,  8:08:47.68
+AdministrationHelper:Login, Best, Wed 01/23/2019,  8:08:57.27
+AdministrationHelper:EDITING 'ScannedDrugs.csv', Best, Wed 01/23/2019,  8:09:14.05
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, Best, Wed 01/23/2019,  8:09:36.45
+AdministrationHelper:COMBINED SCANED MEDS, Best, Wed 01/23/2019,  8:09:36.45
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 10:08:48.36
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 10:10:00.54
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 10:11:00.27
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Wed 01/23/2019, 10:59:21.38
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:08:10.40
+AddStudents:ADDED 4 STUDENTS, , Wed 01/23/2019, 12:25:36.82
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:25:55.33
+AddStudents:ADDED 0 STUDENTS, 3141592653589, Wed 01/23/2019, 12:26:48.49
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:28:39.61
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:29:27.40
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:41:35.97
+AddStudents:ADDED 6 STUDENTS, , Wed 01/23/2019, 12:55:07.89
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:55:13.22
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:56:17.91
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:59:01.51
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 12:59:19.53
+AddStudents:ADDED 1 STUDENTS, , Wed 01/23/2019, 14:51:08.06
+AdministrationHelper:Login, best, Wed 01/23/2019, 14:51:34.76
+AdministrationHelper:Login, best, Wed 01/23/2019, 15:00:10.60
+AddStudents:Login, 3141592653589, Wed 01/23/2019, 15:38:11.77
+AdministrationHelper:Login, best, Thu 01/24/2019, 14:09:09.09
+AddDrugs:Login, best, Thu 01/24/2019, 14:09:14.28
+AddDrugs:ADDED ITEM:3256262156,fentanyl 25mcg/hr, best, Thu 01/24/2019, 14:09:38.34
+DupStudentRun, AUTOtech, Fri 01/25/2019,  9:40:02.81
+DupStudentRun, AUTOtech, Fri 01/25/2019,  9:41:50.51
+AdministrationHelper:Login, best, Fri 01/25/2019, 10:16:37.33
+AddDrugs:Login, best, Fri 01/25/2019, 10:16:39.20
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, fdsa, Fri 01/25/2019, 10:49:23.85
+AddDrugs:Login, fdsa, Fri 01/25/2019, 10:49:25.43
+AddDrugs:ADDED ITEM:95334639,heparin 5000u/ml, fdsa, Fri 01/25/2019, 10:49:52.98
+AddDrugs:ADDED ITEM:77784360,methyprednisolone 40mg/mL inj, fdsa, Fri 01/25/2019, 10:51:25.08
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Fri 01/25/2019, 16:17:25.85
+AdministrationHelper:EDITING 'ScannedDrugs.csv', best, Fri 01/25/2019, 16:17:35.80
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Fri 01/25/2019, 16:17:50.31
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Fri 01/25/2019, 16:18:00.22
+dupssdrugs:LOGIN, best, Fri 01/25/2019, 16:18:13.27
+dupssdrugs:DUPLICATE REPORT, best, Fri 01/25/2019, 16:18:15.83
+dupssdrugs:DUPLICATE REPORT, best, Fri 01/25/2019, 16:18:26.18
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, best, Fri 01/25/2019, 16:18:45.77
+AdministrationHelper:COMBINED SCANED MEDS, best, Fri 01/25/2019, 16:18:45.77
+AdministrationHelper:HELP, best, Fri 01/25/2019, 16:19:07.41
+AdministrationHelper:EDITING 'MissingScans.csv', best, Fri 01/25/2019, 16:19:20.15
+AddDrugs:Login, best, Fri 01/25/2019, 16:19:35.93
+LOGOUT------------------------------------------------------------------------------
+DupStudentRun, AUTOtech, Fri 01/25/2019, 16:24:19.09
+AdministrationHelper:Login, Best, Mon 01/28/2019, 13:48:18.78
+AddDrugs:Login, Best, Mon 01/28/2019, 13:48:26.32
+AddDrugs:ADDED ITEM:90013515,Albuterol inhaler, Best, Mon 01/28/2019, 13:48:56.02
+AddDrugs:ADDED ITEM:99135003,BISACODYL 10MG SUPP, Best, Mon 01/28/2019, 13:49:31.93
+AddStudents:Login, 3141592653589, Mon 01/28/2019, 17:12:02.02
+AdministrationHelper:Login, best, Wed 01/30/2019, 11:33:32.03
+AddStudents:Login, 3141592653589, Wed 01/30/2019, 12:58:12.30
+AdministrationHelper:Login, Best, Fri 02/01/2019, 10:31:21.07
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', Best, Fri 02/01/2019, 10:31:33.75
+AddDrugs:Login, Best, Fri 02/01/2019, 10:32:36.17
+AddDrugs:ADDED ITEM:10001240,cefotaxime 1 g / 50mL NSS, Best, Fri 02/01/2019, 10:34:02.60
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, Best, Mon 02/04/2019, 10:35:52.90
+AddDrugs:Login, Best, Mon 02/04/2019, 10:35:55.21
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Tue 02/05/2019, 10:24:26.31
+AdministrationHelper:Login, best, Tue 02/05/2019, 13:28:27.12
+AddDrugs:Login, best, Tue 02/05/2019, 13:28:28.37
+AddDrugs:ADDED ITEM:45612343,ceFAZolin 2g / 50ml NSS, best, Tue 02/05/2019, 13:30:04.17
+AdministrationHelper:Login, Best, Wed 02/06/2019, 13:11:28.48
+AddDrugs:Login, Best, Wed 02/06/2019, 13:11:31.37
+AddDrugs:ADDED ITEM:30091214,fentanyl 50mcg / mL, Best, Wed 02/06/2019, 13:11:56.61
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Thu 02/07/2019,  8:27:31.16
+AdministrationHelper:Login, Best, Fri 02/15/2019,  9:16:35.06
+AddPatients:Login, Best, Fri 02/15/2019,  9:16:47.75
+AddPatients:PT:Givens  EXSITS, Best, Fri 02/15/2019,  9:16:50.50
+AdministrationHelper:Login, best, Mon 02/25/2019, 16:31:41.87
+AddDrugs:Login, best, Mon 02/25/2019, 16:31:43.20
+AddDrugs:ADDED ITEM:60156129,ciprofloxacin 400mg tab, best, Mon 02/25/2019, 16:32:09.44
+AddDrugs:ADDED ITEM:90161568,lorazepam 1mg/mL, best, Mon 02/25/2019, 16:32:32.87
+AddDrugs:ADDED ITEM:30562516,ciprofloxacin 400mg/50mL NSS, best, Mon 02/25/2019, 16:33:13.57
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Mon 02/25/2019, 16:37:01.66
+AdministrationHelper:Login, best, Mon 03/04/2019, 16:10:56.54
+AdministrationHelper:EDITING 'MissingScans.csv', best, Mon 03/04/2019, 16:11:06.11
+AddDrugs:Login, best, Mon 03/04/2019, 16:12:39.26
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Tue 03/05/2019, 15:02:08.05
+AddDrugs:Login, best, Tue 03/05/2019, 15:02:10.24
+AddDrugs:ADDED ITEM:664113330036,REG INSULIN 100u/ml, best, Tue 03/05/2019, 15:03:35.02
+AddDrugs:Login, best, Tue 03/05/2019, 15:05:48.73
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', best, Tue 03/05/2019, 15:07:36.80
+AddDrugs:Login, best, Tue 03/05/2019, 15:08:16.76
+AddDrugs:ADDED ITEM:10002070,INSULIN 250u/250mL NSS, best, Tue 03/05/2019, 15:08:44.43
+LOGOUT------------------------------------------------------------------------------
+AddStudents:Login, 3141592653589, Mon 03/11/2019, 10:48:49.35
+AddStudents:Login, 3141592653589, Tue 03/19/2019, 10:22:26.01
+DupStudentRun, AUTOtech, Tue 03/19/2019, 12:52:59.47
+DupStudentRun, AUTOtech, Tue 03/19/2019, 12:56:00.33
+DupStudentRun, AUTOtech, Tue 03/19/2019, 12:56:30.65
+AddStudents:Login, 3141592653589, Wed 03/20/2019, 13:04:36.71
+AddStudents:Login, , Wed 03/20/2019, 13:08:20.16
+AddStudents:ADDED 0 STUDENTS, , Wed 03/20/2019, 13:08:24.02
+AddStudents:Login, , Wed 03/20/2019, 13:09:32.90
+AdministrationHelper:Login, nick, Mon 04/01/2019, 10:58:11.23
+AdministrationHelper:EDITING 'ScannedDrugs.csv', nick, Mon 04/01/2019, 10:58:15.32
+dupssdrugs:LOGIN, nick, Mon 04/01/2019, 10:59:24.53
+dupssdrugs:DUPLICATE REPORT, nick, Mon 04/01/2019, 10:59:27.79
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, nick, Mon 04/01/2019, 10:59:49.18
+AdministrationHelper:COMBINED SCANED MEDS, nick, Mon 04/01/2019, 10:59:49.18
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, nick, Mon 04/01/2019, 11:39:59.75
+AddDrugs:Login, nick, Mon 04/01/2019, 11:40:01.43
+AddDrugs:ADDED ITEM:10001240,albuterol inhaler 90 mcg, nick, Mon 04/01/2019, 11:40:55.44
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, nick, Thu 04/04/2019,  8:33:53.89
+AddDrugs:Login, nick, Thu 04/04/2019,  8:33:55.55
+AddDrugs:ADDED ITEM:362515718253,nitroglycerin 0.4 mg, nick, Thu 04/04/2019,  8:34:19.35
+AddDrugs:ADDED ITEM:368462146255,nitroglycerin 0.4 mg, nick, Thu 04/04/2019,  8:34:34.38
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, best, Wed 04/10/2019,  9:18:54.75
+AddDrugs:Login, best, Wed 04/10/2019,  9:19:00.38
+LOGOUT------------------------------------------------------------------------------
+AddDrugs:Login, , Wed 04/10/2019,  9:20:03.90
+AddDrugs:Login, , Wed 04/10/2019,  9:21:15.73
+AddDrugs:Login, , Wed 04/10/2019,  9:21:29.18
+AddDrugs:Login, , Wed 04/10/2019,  9:22:27.86
+AddDrugs:Login, , Wed 04/10/2019, 13:19:39.02
+AddDrugs:Login, , Wed 04/10/2019, 13:49:08.11
+AddDrugs:Login, , Wed 04/10/2019, 13:51:09.97
+AddDrugs:Login, , Wed 04/10/2019, 13:54:31.56
+AdministrationHelper:Login, , Wed 04/10/2019, 13:54:52.21
+AdministrationHelper:EDITING 'ScannedDrugs.csv', , Wed 04/10/2019, 13:54:59.21
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, , Wed 04/10/2019, 13:55:29.82
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 13:55:45.20
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, , Wed 04/10/2019, 13:55:54.06
+dupssdrugs:LOGIN, , Wed 04/10/2019, 13:56:06.63
+dupssdrugs:DUPLICATE REPORT, , Wed 04/10/2019, 13:56:09.03
+dupssdrugs:REMOVE DUPS SELECTED, , Wed 04/10/2019, 13:56:16.53
+dupssdrugs:REMOVE DUPS SELECTED, , Wed 04/10/2019, 13:56:22.01
+AddDrugs:Login, , Wed 04/10/2019, 13:57:05.16
+AddDrugs:Login, , Wed 04/10/2019, 13:57:33.32
+AdministrationHelper:Login, , Wed 04/10/2019, 14:10:11.81
+AdministrationHelper:Login, , Wed 04/10/2019, 14:10:30.20
+AdministrationHelper:HELP, , Wed 04/10/2019, 14:10:34.38
+AdministrationHelper:EDITING 'MissingScans.csv', , Wed 04/10/2019, 14:10:39.06
+AddDrugs:Login, , Wed 04/10/2019, 14:10:56.50
+AddStudents:Login, , Wed 04/10/2019, 14:11:14.87
+AddStudents:ADDED 0 STUDENTS, , Wed 04/10/2019, 14:11:20.67
+AdministrationHelper:Login, , Wed 04/10/2019, 14:12:16.83
+AddStudents:Login, , Wed 04/10/2019, 14:15:31.06
+AddStudents:ADDED 0 STUDENTS, , Wed 04/10/2019, 14:15:37.68
+AddDrugs:Login, , Wed 04/10/2019, 14:15:47.70
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 14:19:40.39
+AdministrationHelper:ATTEMPTING TO COMBINE FILES, , Wed 04/10/2019, 14:20:01.37
+AdministrationHelper:COMBINED SCANED MEDS, , Wed 04/10/2019, 14:20:01.37
+AdministrationHelper:Login, , Wed 04/10/2019, 14:20:51.59
+AddDrugs:Login, , Wed 04/10/2019, 14:21:04.17
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 14:24:17.24
+AddDrugs:Login, , Wed 04/10/2019, 14:24:20.88
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 14:26:12.95
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 14:27:52.56
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 04/10/2019, 14:28:03.28
+AddPatients:Login, , Wed 04/10/2019, 14:28:59.71
+AddStudents:Login, , Wed 04/10/2019, 14:29:09.74
+AdministrationHelper:Login, , Wed 04/10/2019, 14:30:17.71
+AddDrugs:Login, , Wed 04/10/2019, 14:30:32.42
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 14:35:11.13
+AddDrugs:Login, , Wed 04/10/2019, 14:35:12.94
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/10/2019, 15:33:31.54
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 04/11/2019,  8:55:17.99
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 04/11/2019, 11:25:10.04
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 04/15/2019,  8:35:49.19
+AdministrationHelper:Login, , Mon 04/15/2019, 16:31:49.20
+LOGOUT------------------------------------------------------------------------------
+DupStudentRun, AUTOtech, Tue 04/16/2019,  8:04:42.72
+DupStudentRun, AUTOtech, Tue 04/16/2019,  8:06:18.47
+AdministrationHelper:Login, , Tue 04/16/2019, 11:17:31.41
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 04/18/2019,  9:39:22.99
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 04/24/2019, 15:37:35.87
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 05/15/2019, 11:48:42.63
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 06/10/2019,  9:37:21.16
+AddDrugs:Login, , Mon 06/10/2019,  9:37:23.37
+AddDrugs:ADDED ITEM:00378611201,oxyCODONE 5 mg tab, , Mon 06/10/2019,  9:38:09.55
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 06/10/2019,  9:38:51.33
+AddDrugs:Login, , Mon 06/10/2019,  9:38:54.63
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 06/12/2019,  9:52:37.80
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 06/13/2019, 13:49:51.08
+DupStudentRun, AUTOtech, Thu 06/13/2019, 14:02:48.77
+DupStudentRun, AUTOtech, Thu 06/13/2019, 14:09:16.18
+DupStudentRun, AUTOtech, Thu 06/13/2019, 14:12:12.60
+DupStudentRun, AUTOtech, Thu 06/13/2019, 14:14:47.77
+DupStudentRun, AUTOtech, Thu 06/13/2019, 14:16:59.02
+AdministrationHelper:Login, , Thu 06/13/2019, 14:22:07.71
+AddStudents:Login, , Thu 06/13/2019, 14:22:16.68
+AdministrationHelper:Login, , Thu 06/13/2019, 14:48:52.17
+AdministrationHelper:Login, , Thu 06/13/2019, 14:52:18.36
+AdministrationHelper:Login, , Thu 06/13/2019, 15:01:54.73
+AdministrationHelper:Login, , Tue 06/18/2019,  7:49:33.67
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 06/20/2019, 14:21:52.60
+AdministrationHelper:EDITING 'ScannedDrugs.csv', , Thu 06/20/2019, 14:22:02.09
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 06/20/2019, 14:22:14.82
+AdministrationHelper:EDITING PATIENTS, , Thu 06/20/2019, 14:23:13.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 06/20/2019, 14:23:18.20
+AddDrugs:Login, , Thu 06/20/2019, 14:24:17.62
+AddDrugs:ADDED ITEM:10001431,Prevnar13 .5 ml, , Thu 06/20/2019, 14:25:19.80
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 06/21/2019, 14:44:17.76
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 06/21/2019, 14:44:22.06
+AddDrugs:Login, , Fri 06/21/2019, 14:45:33.78
+AddDrugs:ADDED ITEM:10120491,levoFLOXacin 750 mg TAB, , Fri 06/21/2019, 14:45:59.54
+AddDrugs:Login, , Fri 06/21/2019, 14:49:39.83
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 07/17/2019,  9:27:30.93
+AddDrugs:Login, , Wed 07/17/2019,  9:27:44.86
+AdministrationHelper:Login, , Wed 07/17/2019,  9:28:01.57
+AdministrationHelper:HELP, , Wed 07/17/2019,  9:28:05.60
+AdministrationHelper:Login, , Wed 07/17/2019, 15:18:55.40
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 07/31/2019, 14:09:35.56
+AddDrugs:Login, , Wed 07/31/2019, 14:09:42.84
+AddDrugs:ADDED ITEM:14913457,metoprolol 25mg tab, , Wed 07/31/2019, 14:10:23.89
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 08/27/2019, 13:31:14.56
+AdministrationHelper:HELP, , Tue 08/27/2019, 13:31:29.65
+AdministrationHelper:EDITING 'MissingScans.csv', , Tue 08/27/2019, 13:31:35.80
+AddDrugs:Login, , Tue 08/27/2019, 13:32:07.98
+AddDrugs:Login, , Tue 08/27/2019, 13:32:32.35
+AddDrugs:ADDED ITEM:69168002330,acetaminophen 80mg tab, , Tue 08/27/2019, 13:32:54.78
+AddDrugs:ADDED ITEM:69168023460,acetaminophen 325mg tab, , Tue 08/27/2019, 13:33:31.80
+AddDrugs:Login, , Tue 08/27/2019, 13:33:45.93
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 08/27/2019, 13:35:26.80
+AddDrugs:Login, , Tue 08/27/2019, 13:35:34.16
+AddDrugs:ADDED ITEM:00113002571,acetaminophen 500mg cap, , Tue 08/27/2019, 13:36:04.69
+AddDrugs:ADDED ITEM:00363034080,acetaminophen 650mg tab, , Tue 08/27/2019, 13:36:23.83
+AddDrugs:ADDED ITEM:00472120350,acetaminophen 650 sup, , Tue 08/27/2019, 13:37:04.35
+AddDrugs:ADDED ITEM:10001240,albuterol 90mcg inh, , Tue 08/27/2019, 13:37:45.47
+AddDrugs:ADDED ITEM:00093913306,amiodarone 200mg tab, , Tue 08/27/2019, 13:39:55.43
+AddDrugs:Login, , Tue 08/27/2019, 13:40:17.34
+AddDrugs:ADDED ITEM:00093758056,ARIPiprazole 10mg tab, , Tue 08/27/2019, 13:40:59.10
+AddDrugs:ADDED ITEM:00280210020,asprin 81mg tab, , Tue 08/27/2019, 13:41:23.39
+AddDrugs:ADDED ITEM:00067014922,asprin 325mg tab, , Tue 08/27/2019, 13:41:46.52
+AddDrugs:Login, , Tue 08/27/2019, 13:42:01.79
+AddDrugs:ADDED ITEM:664113100035,Multivitamin tab, , Tue 08/27/2019, 13:42:29.78
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 08/27/2019, 14:03:27.94
+AdministrationHelper:EDITING PATIENTS, , Tue 08/27/2019, 14:03:32.59
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 08/27/2019, 14:35:09.32
+AddDrugs:Login, , Tue 08/27/2019, 14:36:06.94
+AddDrugs:ADDED ITEM:00378302405,baclophen 20 mg tablet, , Tue 08/27/2019, 14:37:21.46
+AddDrugs:Login, , Tue 08/27/2019, 14:37:48.65
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019,  9:21:50.04
+AddDrugs:Login, , Wed 08/28/2019,  9:22:14.49
+AddDrugs:ADDED ITEM:00002751001,insulin R 100 units per mL, , Wed 08/28/2019,  9:24:19.08
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019,  9:31:48.01
+AddDrugs:Login, , Wed 08/28/2019,  9:32:00.60
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019,  9:32:44.99
+AddDrugs:Login, , Wed 08/28/2019,  9:32:49.42
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019,  9:36:49.40
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 08/28/2019,  9:36:51.88
+AdministrationHelper:Login, , Wed 08/28/2019,  9:52:51.27
+AddDrugs:Login, , Wed 08/28/2019,  9:52:55.04
+AddDrugs:ADDED ITEM:61786078208,diazePAM 5 mg per mLC0NF1RM, , Wed 08/28/2019,  9:53:30.61
+AdministrationHelper:Login, , Wed 08/28/2019,  9:54:47.30
+AddDrugs:Login, , Wed 08/28/2019,  9:54:55.52
+AddDrugs:ADDED ITEM:61786078208,diazePAM 5 mg per mL, , Wed 08/28/2019,  9:55:24.96
+AddDrugs:ADDED ITEM:00069017902,dexamethasone 4 mg per mL, , Wed 08/28/2019,  9:56:18.32
+AddDrugs:ADDED ITEM:00143993325,cefotaxime 2 g, , Wed 08/28/2019,  9:56:44.60
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019,  9:58:21.08
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 08/28/2019,  9:58:39.18
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 08/28/2019, 11:12:16.92
+AddDrugs:Login, , Wed 08/28/2019, 11:12:26.56
+AddDrugs:ADDED ITEM:00049002428,ampicillin sodium 100 mg per mL - INJECTIONC0NF1RM, , Wed 08/28/2019, 11:13:21.36
+AdministrationHelper:Login, , Wed 08/28/2019, 11:14:42.76
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 08/28/2019, 11:14:47.60
+AdministrationHelper:Login, , Wed 08/28/2019, 15:56:12.37
+AdministrationHelper:EDITING PATIENTS, , Wed 08/28/2019, 15:56:20.57
+AddDrugs:Login, , Wed 08/28/2019, 16:00:15.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 08/28/2019, 16:00:48.60
+AdministrationHelper:Login, , Thu 08/29/2019, 14:09:47.62
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 08/29/2019, 14:09:54.95
+AdministrationHelper:Login, , Thu 08/29/2019, 14:17:26.40
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 08/29/2019, 14:17:31.79
+AdministrationHelper:Login, , Thu 08/29/2019, 14:18:33.83
+AddDrugs:Login, , Thu 08/29/2019, 14:18:43.12
+AddDrugs:ADDED ITEM:10002018,KCl 20 mEq in 0.9% NaCl 500 mL, , Thu 08/29/2019, 14:22:52.57
+AdministrationHelper:Login, , Thu 08/29/2019, 15:02:13.35
+AddDrugs:Login, , Thu 08/29/2019, 15:02:16.72
+AddDrugs:ADDED ITEM:00472120206,acetaminophen 325 mg - SUPPOSITORY, , Thu 08/29/2019, 15:02:49.58
+AdministrationHelper:Login, , Fri 08/30/2019, 13:25:32.34
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 08/30/2019, 13:25:45.36
+AdministrationHelper:Login, , Tue 09/03/2019, 15:23:21.04
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/03/2019, 15:23:42.08
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/04/2019,  9:33:47.26
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/04/2019,  9:33:59.14
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/04/2019,  9:34:41.25
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/04/2019, 15:31:34.89
+AddDrugs:Login, , Wed 09/04/2019, 15:31:44.25
+AddDrugs:ADDED ITEM:68308050260,multivitamin, , Wed 09/04/2019, 15:32:08.88
+AdministrationHelper:Login, , Thu 09/05/2019, 14:50:37.11
+AddDrugs:Login, , Thu 09/05/2019, 14:50:42.85
+AddDrugs:ADDED ITEM:00054329450,furosemide 10 mg per mLC0NF1RM, , Thu 09/05/2019, 14:51:28.23
+AdministrationHelper:Login, , Thu 09/05/2019, 14:52:19.59
+AddDrugs:Login, , Thu 09/05/2019, 14:52:23.43
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 09/05/2019, 15:36:41.14
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/09/2019, 13:32:06.73
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/09/2019, 13:33:58.12
+AddDrugs:Login, , Mon 09/09/2019, 13:34:07.24
+AddDrugs:ADDED ITEM:00075062041,enoxaparin sodium 40 mg in 0.4 mL, , Mon 09/09/2019, 13:36:10.45
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 13:36:43.57
+AdministrationHelper:Login, , Mon 09/09/2019, 14:31:04.93
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 14:32:14.19
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/09/2019, 18:05:06.42
+AddDrugs:Login, , Mon 09/09/2019, 18:05:10.05
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 18:05:32.16
+AddDrugs:Login, , Mon 09/09/2019, 18:08:01.32
+AddDrugs:ADDED ITEM:00363041804,diphenhydrAMINE 25 mg per mL - LIQUID, , Mon 09/09/2019, 18:08:44.52
+AddDrugs:ADDED ITEM:16590061990,oxyCODONE/acetaminophen 5/325 mg - TABLET, , Mon 09/09/2019, 18:09:30.77
+AddDrugs:ADDED ITEM:54738096313,ferrous sulfate 325 mg - TABLET, , Mon 09/09/2019, 18:09:57.14
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/09/2019, 18:11:51.81
+AddDrugs:Login, , Mon 09/09/2019, 18:11:58.15
+AddDrugs:ADDED ITEM:00641092825,promethazine 25 mg per mL - INJECTION, , Mon 09/09/2019, 18:12:38.99
+AdministrationHelper:Login, , Mon 09/09/2019, 18:17:04.65
+AddDrugs:Login, , Mon 09/09/2019, 18:17:07.77
+AddDrugs:ADDED ITEM:99135003,BISACODYL 10 MG, , Mon 09/09/2019, 18:17:30.80
+AddDrugs:ADDED ITEM:00597001601,docusate sodium 100 mg - CAPSULE, , Mon 09/09/2019, 18:18:00.91
+AddDrugs:ADDED ITEM:cance1,cance1, , Mon 09/09/2019, 18:18:52.98
+AdministrationHelper:Login, , Mon 09/09/2019, 18:19:20.66
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 18:19:24.63
+AdministrationHelper:Login, , Mon 09/09/2019, 18:25:33.42
+AddDrugs:Login, , Mon 09/09/2019, 18:25:39.61
+AddDrugs:ADDED ITEM:00597001601,docusate sodium 100 mg - CAPSULE, , Mon 09/09/2019, 18:26:19.75
+AddDrugs:ADDED ITEM:99135003,BISACODYL 10 MG, , Mon 09/09/2019, 18:26:43.03
+AddDrugs:ADDED ITEM:cance1,cance1, , Mon 09/09/2019, 18:26:52.91
+AdministrationHelper:Login, , Mon 09/09/2019, 18:27:38.84
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 18:28:01.10
+AddDrugs:Login, , Mon 09/09/2019, 18:29:24.37
+AddDrugs:ADDED ITEM:00597001601,docusate sodium 100 mg - CAPSULE, , Mon 09/09/2019, 18:29:50.16
+AddDrugs:ADDED ITEM:cance1,cance1, , Mon 09/09/2019, 18:30:09.25
+AdministrationHelper:Login, , Mon 09/09/2019, 18:30:31.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 18:30:37.08
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/09/2019, 18:31:20.92
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/09/2019, 18:31:24.26
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/10/2019,  7:36:27.39
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019,  7:36:30.90
+AddDrugs:Login, , Tue 09/10/2019,  7:37:19.79
+AddDrugs:ADDED ITEM:99135003,bisacodyl 10 mg - SUPPOSITORY, , Tue 09/10/2019,  7:37:59.83
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019,  7:38:29.19
+AddDrugs:Login, , Tue 09/10/2019,  7:38:46.29
+AddDrugs:ADDED ITEM:00597001601,docusate sodium 10 mg - CAPSULE, , Tue 09/10/2019,  7:39:19.74
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019,  7:39:30.80
+AdministrationHelper:Login, , Tue 09/10/2019,  8:58:11.16
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019,  8:58:16.81
+AddDrugs:Login, , Tue 09/10/2019,  9:01:24.46
+AddDrugs:ADDED ITEM:00409909332,fentaNYL 50 mcg per mL - SOLUTION, , Tue 09/10/2019,  9:02:12.09
+AdministrationHelper:Login, , Tue 09/10/2019,  9:51:16.95
+AddDrugs:Login, , Tue 09/10/2019,  9:52:18.43
+AddDrugs:ADDED ITEM:52533016004,morphine sulfate 1 mg per mL - INJECTION, , Tue 09/10/2019,  9:54:31.75
+AddDrugs:ADDED ITEM:00409381512,morphine sulfate 1 mg per mL - SOLUTION, , Tue 09/10/2019,  9:55:49.30
+AddDrugs:ADDED ITEM:68084040601,morphine sulfate 100 mg - TABLET, , Tue 09/10/2019,  9:56:27.38
+AddDrugs:ADDED ITEM:00904656604,niMODipine 30 mg - CAPSULE, , Tue 09/10/2019,  9:57:24.57
+AddDrugs:ADDED ITEM:00069134002,ondansetron 2 mg per mL - INJECTION, , Tue 09/10/2019,  9:58:20.88
+AddDrugs:ADDED ITEM:00008094103,pantoprazole 40 mg per 10 mL - INJECTION, , Tue 09/10/2019,  9:59:30.83
+AddDrugs:ADDED ITEM:00008060704,pantoprazole 40 mg - TABLET, , Tue 09/10/2019, 10:00:11.02
+AddDrugs:ADDED ITEM:00641614225,phenylephrine hydrochloride 50 mg in 500 mL - INJECTIONc0nf1rm, , Tue 09/10/2019, 10:01:29.15
+AdministrationHelper:Login, , Tue 09/10/2019, 10:01:52.11
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019, 10:01:55.40
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/10/2019, 10:03:28.31
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019, 10:03:36.04
+AddDrugs:Login, , Tue 09/10/2019, 10:04:41.31
+AddDrugs:ADDED ITEM:00641614225,phenylephrine hydrochloride 50 mg in 500 mL - SOLUTION, , Tue 09/10/2019, 10:06:11.05
+AdministrationHelper:Login, , Tue 09/10/2019, 13:48:34.19
+AddDrugs:Login, , Tue 09/10/2019, 13:48:37.73
+AddDrugs:ADDED ITEM:10002087,amiodarone 150 mg in 100 mL D5W - SOLUTION, , Tue 09/10/2019, 13:49:18.32
+AdministrationHelper:Login, , Tue 09/10/2019, 16:26:20.30
+AddDrugs:Login, , Tue 09/10/2019, 16:26:30.63
+AddDrugs:ADDED ITEM:55154035805,bumetanide 0.25 mg per mL - INJECTION, , Tue 09/10/2019, 16:29:40.28
+AddDrugs:ADDED ITEM:00264310511,ceFAZolin sodium 2 g in 50 mL - SOLUTION, , Tue 09/10/2019, 16:30:40.49
+AddDrugs:ADDED ITEM:00093731405,clopidogrel 75 mg - TABLET, , Tue 09/10/2019, 16:31:37.84
+AddDrugs:ADDED ITEM:67457043322,famotidine 10 mg per mL - INJECTION, , Tue 09/10/2019, 16:32:11.96
+AddDrugs:ADDED ITEM:00186108805,metoprolol 25 mg - TABLET, , Tue 09/10/2019, 16:33:59.96
+AddDrugs:ADDED ITEM:00006074054,simvastatin 20 mg - TABLET, , Tue 09/10/2019, 16:35:33.29
+AddDrugs:Login, , Tue 09/10/2019, 16:35:58.61
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019, 16:36:11.34
+AddDrugs:Login, , Tue 09/10/2019, 16:39:20.33
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/10/2019, 16:39:57.56
+AdministrationHelper:Login, , Wed 09/11/2019,  8:45:59.08
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019,  8:46:15.72
+AddDrugs:Login, , Wed 09/11/2019,  8:46:31.23
+AddDrugs:ADDED ITEM:00363034080,acetaminophen 650 mg - TABLET, , Wed 09/11/2019,  8:46:59.70
+AdministrationHelper:Login, , Wed 09/11/2019,  8:47:56.54
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019,  8:48:00.12
+AddDrugs:Login, , Wed 09/11/2019,  8:48:19.45
+AddDrugs:ADDED ITEM:00363034080,acetaminophen 650 mg - TABLET, , Wed 09/11/2019,  8:48:54.62
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/11/2019,  8:53:07.19
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019,  8:53:13.51
+AdministrationHelper:Login, , Wed 09/11/2019, 10:40:38.06
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 10:40:42.95
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/11/2019, 10:42:09.19
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 10:42:12.26
+AddDrugs:Login, , Wed 09/11/2019, 10:42:44.18
+AddDrugs:ADDED ITEM:13668027210,levETIRAcetam 500 mg per 50 mL - SOLUTION, , Wed 09/11/2019, 10:43:23.56
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/11/2019, 10:53:04.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 10:53:08.75
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 10:53:35.22
+AdministrationHelper:Login, , Wed 09/11/2019, 11:27:12.17
+AddDrugs:Login, , Wed 09/11/2019, 11:27:14.90
+AddDrugs:ADDED ITEM:00641614225,phenylephrine hydrochloride 50 mg in 500 mL - SOLUTION, , Wed 09/11/2019, 11:27:56.91
+AddDrugs:ADDED ITEM:cance1,cance1, , Wed 09/11/2019, 11:28:11.79
+AdministrationHelper:Login, , Wed 09/11/2019, 11:28:40.45
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 11:28:44.75
+AddDrugs:Login, , Wed 09/11/2019, 11:29:23.66
+AddDrugs:ADDED ITEM:00641614225,phenylephrine hydrochloride 50 mg in 500 mL - SOLUTION, , Wed 09/11/2019, 11:30:08.49
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/11/2019, 11:31:02.27
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/11/2019, 11:31:07.07
+AdministrationHelper:Login, , Wed 09/11/2019, 17:13:33.54
+AdministrationHelper:EDITING PATIENTS, , Wed 09/11/2019, 17:13:36.46
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 09/12/2019, 11:25:31.80
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 09/12/2019, 11:25:35.17
+AddDrugs:Login, , Thu 09/12/2019, 11:26:22.08
+AddDrugs:ADDED ITEM:00264230350,mannitol 20% 50 g in 50 mL - SOLUTION, , Thu 09/12/2019, 11:26:55.45
+AdministrationHelper:Login, , Mon 09/16/2019, 11:05:33.69
+AddDrugs:Login, , Mon 09/16/2019, 11:05:36.98
+AddDrugs:ADDED ITEM:00143987510,amiodarone hydrochloride 150 mg in 100 mL - SOLUTION, , Mon 09/16/2019, 11:06:13.86
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/17/2019, 13:25:08.09
+AddDrugs:Login, , Tue 09/17/2019, 13:25:14.13
+AddDrugs:ADDED ITEM:0088221905,insulin glargine - Lantus 100 units per mL, , Tue 09/17/2019, 13:26:39.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/17/2019, 13:27:10.90
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/17/2019, 13:36:19.64
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/17/2019, 13:36:24.28
+AddDrugs:Login, , Tue 09/17/2019, 13:36:50.91
+AddDrugs:ADDED ITEM:54868361900,insulin R 250 units in 250 mL, , Tue 09/17/2019, 13:37:21.17
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/17/2019, 13:38:52.80
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 09/17/2019, 13:38:55.05
+AddDrugs:Login, , Tue 09/17/2019, 13:43:26.51
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 09/18/2019,  9:15:33.92
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 09/18/2019,  9:15:39.07
+AddDrugs:Login, , Wed 09/18/2019,  9:17:43.62
+AddDrugs:ADDED ITEM:69168023460,acetaminophen 325 mg - TABLET, , Wed 09/18/2019,  9:18:16.63
+AdministrationHelper:Login, , Wed 09/18/2019, 13:20:00.57
+AddPatients:Login, , Wed 09/18/2019, 13:20:12.94
+AddPatients:ADDED PT:Scott, Jada, , Wed 09/18/2019, 13:20:37.40
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019,  9:28:27.59
+AddDrugs:Login, , Mon 09/23/2019,  9:28:32.77
+AddDrugs:ADDED ITEM:68084040601,morphine sulfate 100 mg - TABLET, , Mon 09/23/2019,  9:28:59.31
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/23/2019,  9:29:16.44
+AddDrugs:Login, , Mon 09/23/2019,  9:30:26.70
+AddDrugs:ADDED ITEM:00409381512,morphine sulfate 1 mg per mL - SOLUTION, , Mon 09/23/2019,  9:30:59.68
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 10:00:19.13
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 10:00:51.92
+AddDrugs:Login, , Mon 09/23/2019, 10:00:53.66
+AddDrugs:ADDED ITEM:00071041824,nitroglycerin 0.4mg tab, , Mon 09/23/2019, 10:01:27.70
+AddDrugs:ADDED ITEM:00143242201,ondansetron 4mg tab, , Mon 09/23/2019, 10:02:32.79
+AddDrugs:ADDED ITEM:00069134002,ondansetron 2mg per mL, , Mon 09/23/2019, 10:03:04.80
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 10:03:34.97
+AddDrugs:Login, , Mon 09/23/2019, 10:03:37.68
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 10:34:07.54
+AddDrugs:Login, , Mon 09/23/2019, 10:34:13.73
+AddDrugs:ADDED ITEM:52533016004,morphine sulfate 1 mg per mL inj, , Mon 09/23/2019, 10:35:20.95
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 11:53:31.19
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/23/2019, 11:53:38.71
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 09/23/2019, 16:05:13.78
+AddDrugs:Login, , Mon 09/23/2019, 16:05:16.80
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/23/2019, 16:05:32.01
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 09/23/2019, 16:06:52.59
+AddDrugs:Login, , Mon 09/23/2019, 16:07:29.22
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/24/2019, 10:27:03.88
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 09/24/2019, 10:28:15.86
+AddDrugs:Login, , Tue 09/24/2019, 10:28:17.52
+AddDrugs:ADDED ITEM:00069004301,heparin 1000 units per mL INJ, , Tue 09/24/2019, 10:28:50.61
+AdministrationHelper:Login, , Wed 09/25/2019, 13:22:11.99
+AddDrugs:Login, , Wed 09/25/2019, 13:22:25.39
+AdministrationHelper:Login, , Thu 09/26/2019, 15:55:33.24
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 09/26/2019, 15:55:35.74
+AdministrationHelper:EDITING PATIENTS, , Thu 09/26/2019, 15:55:44.77
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 09/27/2019, 13:23:48.28
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 09/27/2019, 13:23:52.64
+AddDrugs:Login, , Fri 09/27/2019, 13:24:27.94
+AddDrugs:ADDED ITEM:00069023201,heparin 25,000 units in 250 mL D5W, , Fri 09/27/2019, 13:25:00.75
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 09/27/2019, 13:25:54.41
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 09/27/2019, 13:25:58.50
+AdministrationHelper:Login, , Fri 09/27/2019, 14:26:16.19
+AddDrugs:Login, , Fri 09/27/2019, 14:26:18.00
+AddDrugs:ADDED ITEM:00603616002,traZODone 50 mg TAB, , Fri 09/27/2019, 14:26:54.75
+AddDrugs:ADDED ITEM:00074568113,valproic acid 250 mg TAB, , Fri 09/27/2019, 14:27:20.34
+AddDrugs:ADDED ITEM:00056017201,warfarin sodium 5 mg TAB, , Fri 09/27/2019, 14:27:42.49
+AddDrugs:ADDED ITEM:00310075290,rosuvastain 20 mg TAB, , Fri 09/27/2019, 14:28:12.72
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/01/2019, 13:29:15.66
+AddPatients:Login, , Tue 10/01/2019, 13:29:46.24
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/01/2019, 15:10:39.63
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/01/2019, 16:15:18.43
+AddDrugs:Login, , Tue 10/01/2019, 16:15:22.33
+AddDrugs:ADDED ITEM:00409707426,potassium chloride 10 mEq in NaCl 0.9% - INJECTION , , Tue 10/01/2019, 16:19:36.89
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/01/2019, 16:19:57.88
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/01/2019, 16:20:54.54
+AddDrugs:Login, , Tue 10/01/2019, 16:22:40.62
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/01/2019, 16:22:51.75
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/01/2019, 16:25:00.20
+AddDrugs:Login, , Tue 10/01/2019, 16:25:03.73
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 10/02/2019,  8:39:07.56
+AddPatients:Login, , Wed 10/02/2019,  8:39:16.14
+AddPatients:ADDED PT:, , , Wed 10/02/2019,  8:39:46.11
+AdministrationHelper:Login, , Wed 10/02/2019,  9:39:34.23
+AddPatients:Login, , Wed 10/02/2019,  9:39:47.73
+AddPatients:PT:Spree  EXSITS, , Wed 10/02/2019,  9:39:51.28
+AddPatients:PT:Spree  EXSITS, , Wed 10/02/2019,  9:40:07.31
+AddPatients:ADDED PT:21265891, 21265891, , Wed 10/02/2019,  9:40:43.06
+AddPatients:ADDED PT:21265891, 21265891, , Wed 10/02/2019,  9:41:28.71
+AddPatients:PT:Forrester  EXSITS, , Wed 10/02/2019,  9:42:03.79
+AddPatients:PT:Forrester  EXSITS, , Wed 10/02/2019,  9:42:08.61
+AddPatients:PT:Forrester  EXSITS, , Wed 10/02/2019,  9:42:17.19
+AddPatients:ADDED PT:forrester, chris, , Wed 10/02/2019,  9:42:49.03
+AddPatients:PT:Forrester  EXSITS, , Wed 10/02/2019,  9:42:58.50
+AddPatients:ADDED PT:ibarra, juanita, , Wed 10/02/2019,  9:52:30.32
+AddPatients:ADDED PT:ibarra, juanita, , Wed 10/02/2019,  9:53:18.60
+AddPatients:PT:21265891  EXSITS, , Wed 10/02/2019,  9:53:24.81
+AdministrationHelper:Login, , Wed 10/02/2019,  9:55:06.66
+AddPatients:Login, , Wed 10/02/2019,  9:55:14.60
+AddPatients:ADDED PT:ibarra, juanita, , Wed 10/02/2019,  9:55:33.58
+AddPatients:ADDED PT:ibarra, juanita, , Wed 10/02/2019,  9:56:39.03
+AddPatients:PT:21265891  EXSITS, , Wed 10/02/2019, 10:03:25.97
+AddPatients:DIDNT ADDED PT:dfs, dfs, , Wed 10/02/2019, 10:03:42.20
+LOGOUT------------------------------------------------------------------------------
+AddPatients:DIDNT ADDED PT:baibarra, juanita, , Wed 10/02/2019, 10:21:37.66
+AddPatients:ADDED PT:ibarra, juanita, , Wed 10/02/2019, 10:21:53.72
+AddPatients:ADDED PT:ibarra, juantia, , Wed 10/02/2019, 10:22:22.23
+AddPatients:ADDED PT:21265891, juanita, , Wed 10/02/2019, 11:15:46.00
+AddPatients:DIDNT ADDED PT:CANCE1, CANCE1, , Wed 10/02/2019, 14:16:54.39
+AdministrationHelper:Login, , Tue 10/08/2019,  9:31:13.20
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/08/2019,  9:31:16.99
+AddDrugs:Login, , Tue 10/08/2019,  9:34:20.94
+AddDrugs:ADDED ITEM:00008094103,pantoprazole 40 mg per 10 mL - INJECTION, , Tue 10/08/2019,  9:35:17.14
+AddDrugs:ADDED ITEM:00904656604,niMODipine 30 mg - CAPSULE, , Tue 10/08/2019,  9:35:58.96
+AddDrugs:ADDED ITEM:00008060704,pantoprazole 40 mg - TABLET, , Tue 10/08/2019,  9:36:27.49
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/08/2019,  9:36:47.04
+AdministrationHelper:Login, , Tue 10/08/2019, 13:09:53.43
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/08/2019, 13:10:01.91
+AdministrationHelper:Login, , Thu 10/10/2019, 10:30:22.90
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 10/10/2019, 11:22:56.81
+AddPatients:Login, , Thu 10/10/2019, 11:23:09.11
+AddPatients:PT:Rodriguez  EXSITS, , Thu 10/10/2019, 11:23:12.15
+AddPatients:PT:Rodriguez  EXSITS, , Thu 10/10/2019, 11:23:27.87
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 10/10/2019, 11:25:07.04
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 10/10/2019, 11:36:45.01
+AddDrugs:Login, , Thu 10/10/2019, 11:37:00.06
+AdministrationHelper:Login, , Mon 10/14/2019, 16:36:00.92
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:36:08.88
+AddDrugs:Login, , Mon 10/14/2019, 16:39:00.61
+AddDrugs:ADDED ITEM:00006010654,lisinopril 10 mg - TABLET, , Mon 10/14/2019, 16:39:33.32
+AddDrugs:Login, , Mon 10/14/2019, 16:39:49.37
+AddDrugs:ADDED ITEM:00378542705,gabapentin 300 mg - TABLET, , Mon 10/14/2019, 16:40:15.56
+AddDrugs:Login, , Mon 10/14/2019, 16:40:26.28
+AddDrugs:ADDED ITEM:00071041824,nitroglycerin 0.4 mg - TABLET, , Mon 10/14/2019, 16:40:55.58
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/14/2019, 16:41:59.02
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:42:03.05
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/14/2019, 16:44:59.27
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:45:02.87
+AddDrugs:Login, , Mon 10/14/2019, 16:46:13.82
+AddDrugs:ADDED ITEM:00071041824,nitroglycerine 0.4 mg - TABLET, , Mon 10/14/2019, 16:46:42.30
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/14/2019, 16:51:56.25
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:51:59.95
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/14/2019, 16:53:29.08
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:53:31.33
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/14/2019, 16:55:01.85
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/14/2019, 16:55:05.24
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/15/2019,  8:30:34.43
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019,  8:30:39.51
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/15/2019,  8:31:55.18
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/15/2019, 10:13:37.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019, 10:13:41.59
+AddDrugs:Login, , Tue 10/15/2019, 10:15:36.44
+AddDrugs:ADDED ITEM:00071041824,nitroglycerin 0.4 mg - TABLET, , Tue 10/15/2019, 10:16:10.61
+AddDrugs:ADDED ITEM:cance1,cance1, , Tue 10/15/2019, 10:16:24.93
+AdministrationHelper:Login, , Tue 10/15/2019, 10:16:55.97
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019, 10:16:58.98
+AddDrugs:Login, , Tue 10/15/2019, 10:17:17.70
+AddDrugs:ADDED ITEM:00071041824,nitroglycerin 0.4 mg - TABLET, , Tue 10/15/2019, 10:17:40.52
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/15/2019, 10:18:18.18
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019, 10:18:21.07
+AddDrugs:Login, , Tue 10/15/2019, 10:18:53.16
+AddDrugs:ADDED ITEM:00071041824,nitroglycerin 0.4 mg - TABLET, , Tue 10/15/2019, 10:19:18.85
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019, 10:19:43.84
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/15/2019, 10:20:23.87
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/15/2019, 11:49:52.17
+AddPatients:Login, , Tue 10/15/2019, 11:50:18.81
+AddPatients:PT:Forrester  EXSITS, , Tue 10/15/2019, 11:50:35.63
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/21/2019,  9:59:53.48
+AddDrugs:Login, , Mon 10/21/2019, 10:00:35.34
+AddDrugs:ADDED ITEM:00113007471,ibuprofen 200mg TAB, , Mon 10/21/2019, 10:00:53.81
+AddDrugs:ADDED ITEM:00603243410,Benzotropine 1mg TAB, , Mon 10/21/2019, 10:01:26.38
+AddDrugs:ADDED ITEM:00054356749,Milk of Magnesia 30ml, , Mon 10/21/2019, 10:02:12.09
+AddDrugs:ADDED ITEM:00179016330,lorazepam 1mg TAB, , Mon 10/21/2019, 10:03:19.12
+AddDrugs:ADDED ITEM:00054002025,lithium 450mg TAB, , Mon 10/21/2019, 10:03:32.90
+AddDrugs:ADDED ITEM:00378033401,haloperidol 10mg TAB, , Mon 10/21/2019, 10:04:37.33
+AddDrugs:ADDED ITEM:00006001954,lisinopril 5mg TAB, , Mon 10/21/2019, 10:05:37.59
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/21/2019, 10:07:11.97
+AdministrationHelper:EDITING PATIENTS, , Mon 10/21/2019, 10:07:20.74
+AdministrationHelper:Login, , Tue 10/22/2019,  9:33:08.55
+AddDrugs:Login, , Tue 10/22/2019,  9:33:13.39
+AddDrugs:ADDED ITEM:70518053800,fluticasone/salmeterol 250mcg/50mcg, , Tue 10/22/2019,  9:33:41.89
+AddDrugs:ADDED ITEM:00472120206,acetaminophen 325mg SUP, , Tue 10/22/2019,  9:34:08.52
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/22/2019, 14:54:06.17
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/22/2019, 14:54:12.20
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 10/28/2019, 10:00:14.64
+AddDrugs:Login, , Mon 10/28/2019, 10:00:21.01
+AddDrugs:ADDED ITEM:00143312501,hydroCHLOROthiazide 12.5 mg CAPSULE, , Mon 10/28/2019, 10:00:58.54
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 10/28/2019, 10:01:12.05
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/29/2019, 12:57:36.63
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 10/29/2019, 12:57:39.48
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 10/29/2019, 13:00:57.29
+AddDrugs:Login, , Tue 10/29/2019, 13:01:00.41
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 10/30/2019, 10:59:40.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 10/30/2019, 10:59:47.03
+AddDrugs:Login, , Wed 10/30/2019, 11:02:18.40
+AddDrugs:ADDED ITEM:10001240,albuterol 90 mcg - INHALER, , Wed 10/30/2019, 11:02:50.22
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 10/30/2019, 11:04:19.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 10/30/2019, 11:04:24.57
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Sat 11/02/2019,  8:31:48.75
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Sat 11/02/2019,  8:31:53.21
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Sat 11/02/2019,  8:39:49.29
+AddDrugs:Login, , Sat 11/02/2019,  8:39:53.17
+AdministrationHelper:Login, , Sat 11/02/2019,  8:40:10.33
+AddDrugs:Login, , Sat 11/02/2019,  8:40:11.14
+AddDrugs:ADDED ITEM:63739051910,predniSONE 10 mg TABLET, , Sat 11/02/2019,  8:40:53.08
+AddDrugs:ADDED ITEM:00186109005,metoprolol 50 mg TABLET, , Sat 11/02/2019,  8:41:25.54
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 11/07/2019, 14:48:19.95
+AddDrugs:Login, , Thu 11/07/2019, 14:48:22.99
+AddDrugs:ADDED ITEM:52533005030,oxytocin 20 units in LR 1000 ml - SOLN, , Thu 11/07/2019, 14:49:34.30
+AddDrugs:Login, , Thu 11/07/2019, 14:50:22.64
+AddDrugs:ADDED ITEM:00069006201,heparin sodium 10k units per ml - INJ, , Thu 11/07/2019, 14:52:16.68
+AddDrugs:ADDED ITEM:00143974809,donepezil hydrochloride 10mg - TAB, , Thu 11/07/2019, 14:53:13.31
+AddDrugs:ADDED ITEM:00378912298,fentaNYL 50mcg - PATCH, , Thu 11/07/2019, 14:53:49.48
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 11/14/2019, 14:08:15.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 11/14/2019, 14:08:22.50
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 11/14/2019, 14:49:09.29
+AddDrugs:Login, , Thu 11/14/2019, 14:49:12.84
+AddDrugs:ADDED ITEM:00069011302,haloperidol 5 mg per mL - SOLUTION, , Thu 11/14/2019, 14:50:04.14
+AddDrugs:Login, , Thu 11/14/2019, 14:50:17.99
+AddDrugs:ADDED ITEM:00093960412,haloperidol 2 mg per mL - SOLUTION, , Thu 11/14/2019, 14:51:02.09
+AddDrugs:ADDED ITEM:cance1,cance1, , Thu 11/14/2019, 14:51:26.41
+AdministrationHelper:Login, , Thu 11/14/2019, 14:52:12.10
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 11/14/2019, 14:52:15.35
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 11/14/2019, 14:55:04.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 11/14/2019, 14:55:13.13
+AddDrugs:Login, , Thu 11/14/2019, 14:55:19.83
+AddDrugs:ADDED ITEM:00093960412,haloperidol 2 mg per mL - SOLUTION, , Thu 11/14/2019, 14:56:28.54
+AddDrugs:Login, , Thu 11/14/2019, 14:57:03.01
+AddDrugs:ADDED ITEM:00378021401,haloperidol 2 mg - TABLET, , Thu 11/14/2019, 14:57:26.62
+AddDrugs:Login, , Thu 11/14/2019, 14:57:37.79
+AddDrugs:ADDED ITEM:00378032701,haloperidol 5 mg - TABLET, , Thu 11/14/2019, 14:58:00.51
+AddDrugs:ADDED ITEM:cance1,cance1, , Thu 11/14/2019, 14:58:10.75
+AdministrationHelper:Login, , Thu 11/14/2019, 14:58:29.78
+AddDrugs:Login, , Thu 11/14/2019, 14:58:32.56
+AddDrugs:ADDED ITEM:00378032701,haloperidol 5 mg - TABLET, , Thu 11/14/2019, 14:59:04.74
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 11/14/2019, 14:59:20.62
+AdministrationHelper:Login, , Tue 11/19/2019, 13:33:50.67
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 11/19/2019, 13:33:57.29
+AddDrugs:Login, , Tue 11/19/2019, 13:36:55.41
+AddDrugs:ADDED ITEM:00069005902,heparin 5000 units per mL -INJECTION, , Tue 11/19/2019, 13:37:24.30
+AddDrugs:ADDED ITEM:cance1,cance1, , Tue 11/19/2019, 13:37:36.56
+AdministrationHelper:Login, , Tue 11/19/2019, 13:38:30.74
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 11/19/2019, 13:38:34.89
+AdministrationHelper:Login, , Tue 11/19/2019, 13:40:49.55
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 11/19/2019, 13:40:52.53
+AddDrugs:Login, , Tue 11/19/2019, 13:42:16.33
+AddDrugs:ADDED ITEM:00069005902,heparin 5000 units per mL - INJECTION, , Tue 11/19/2019, 13:42:46.94
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 11/19/2019, 13:42:59.17
+AdministrationHelper:Login, , Thu 12/05/2019, 10:40:27.20
+AddDrugs:Login, , Thu 12/05/2019, 10:40:30.74
+AddDrugs:ADDED ITEM:304870201100,ipratropium 0.5 mg and albuterol 3 mg - SOLUTION, , Thu 12/05/2019, 10:42:21.83
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 12/05/2019, 11:55:17.26
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/05/2019, 11:55:21.16
+AddDrugs:Login, , Thu 12/05/2019, 11:56:59.96
+AddDrugs:ADDED ITEM:00006020754,lisinopril 20 mg - TABLET, , Thu 12/05/2019, 11:57:24.22
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 12/05/2019, 11:58:25.10
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/05/2019, 11:58:28.66
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 12/05/2019, 12:01:32.97
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/05/2019, 12:01:37.51
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 12/06/2019, 15:44:56.56
+AddDrugs:Login, , Fri 12/06/2019, 15:45:02.15
+AddDrugs:ADDED ITEM:42982444101,senna glycoside 20 mg - TABLET, , Fri 12/06/2019, 15:45:31.40
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 12/06/2019, 16:21:19.11
+AddDrugs:Login, , Fri 12/06/2019, 16:21:22.24
+AddDrugs:ADDED ITEM:11523435701,polyethylene glycol 17 mg - POWDER, , Fri 12/06/2019, 16:22:27.65
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 12/17/2019, 12:00:28.88
+AddDrugs:Login, , Tue 12/17/2019, 12:00:42.98
+AddDrugs:ADDED ITEM:00409144325,norEPINEPHrine 8 mg in 5% Dextrose 250 mL - SOLUTION, , Tue 12/17/2019, 12:01:52.77
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 12/17/2019, 14:21:32.91
+AddDrugs:Login, , Tue 12/17/2019, 14:21:34.63
+AddDrugs:ADDED ITEM:00283067902,benzocaine 200 mg - SPRAY, , Tue 12/17/2019, 14:22:19.38
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 12/17/2019, 14:22:32.74
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 12/17/2019, 14:55:06.66
+AddDrugs:Login, , Tue 12/17/2019, 14:55:17.42
+AddDrugs:ADDED ITEM:00363044025,glycerin - SUPPOSITORY, , Tue 12/17/2019, 14:55:44.19
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 12/17/2019, 14:56:35.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 12/17/2019, 14:56:37.76
+AdministrationHelper:Login, , Tue 12/17/2019, 15:20:53.27
+AddDrugs:Login, , Tue 12/17/2019, 15:20:56.92
+AddDrugs:ADDED ITEM:4950269785,albuterol sulfate2.5 mg in 3 mL - SOLUTION, , Tue 12/17/2019, 15:21:44.44
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 12/17/2019, 15:22:05.70
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 12/17/2019, 15:22:10.29
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 12/18/2019, 16:09:37.92
+AddDrugs:Login, , Wed 12/18/2019, 16:09:43.32
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 12/19/2019, 15:10:17.18
+AddDrugs:Login, , Thu 12/19/2019, 15:10:21.97
+AddDrugs:ADDED ITEM:00409795309,0.8% Lactated Ringer's - SOLUTION , , Thu 12/19/2019, 15:13:01.52
+AddDrugs:ADDED ITEM:cance1,0.8% Lactated Ringer's 1000 mL - SOLUTION, , Thu 12/19/2019, 15:14:06.81
+AddDrugs:Login, , Thu 12/19/2019, 15:14:24.37
+AddDrugs:ADDED ITEM:00409795303,0.8% Lactated Ringer's 500 mL - SOLUTION, , Thu 12/19/2019, 15:15:07.76
+AdministrationHelper:Login, , Thu 12/19/2019, 15:16:00.80
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/19/2019, 15:16:03.28
+AddDrugs:Login, , Thu 12/19/2019, 15:17:14.38
+AddDrugs:ADDED ITEM:00409795309,Lactated Ringer's 0.8% 1000 mL - SOLUTION, , Thu 12/19/2019, 15:18:20.71
+AddDrugs:Login, , Thu 12/19/2019, 15:18:29.46
+AddDrugs:ADDED ITEM:00409795303,Lactated Ringers 0.8% 500 mL - SOLUTION, , Thu 12/19/2019, 15:19:04.41
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Thu 12/19/2019, 15:19:16.26
+AdministrationHelper:Login, , Thu 12/19/2019, 15:19:43.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/19/2019, 15:19:46.93
+AddDrugs:Login, , Thu 12/19/2019, 15:22:39.70
+AddDrugs:ADDED ITEM:00409795303,Lactated Ringers 500 mL - SOLUTION, , Thu 12/19/2019, 15:23:04.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/19/2019, 15:23:13.76
+AdministrationHelper:Login, , Thu 12/19/2019, 15:37:19.17
+AddDrugs:Login, , Thu 12/19/2019, 15:37:23.55
+AddDrugs:ADDED ITEM:00005197101,pneumococcal vaccine - SYRINGE, , Thu 12/19/2019, 15:38:21.93
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Thu 12/19/2019, 15:50:49.72
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 12/19/2019, 15:50:53.21
+AdministrationHelper:Login, , Fri 12/20/2019, 10:52:14.45
+AddDrugs:Login, , Fri 12/20/2019, 10:52:18.97
+AddDrugs:ADDED ITEM:00363046631,bisacodyl 10 mg - SUPPOSITORY, , Fri 12/20/2019, 10:52:49.51
+AdministrationHelper:Login, , Fri 12/20/2019, 10:53:23.19
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 12/20/2019, 10:53:26.45
+AddDrugs:Login, , Fri 12/20/2019, 10:57:06.97
+AddDrugs:ADDED ITEM:00363046631,bisacodyl 10 mg - SUPPOSITORY, , Fri 12/20/2019, 10:57:36.33
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 12/20/2019, 10:57:54.69
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 12/20/2019, 10:57:58.61
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 01/03/2020, 14:28:02.23
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/03/2020, 14:28:07.43
+AddDrugs:Login, , Fri 01/03/2020, 14:29:12.44
+AddDrugs:ADDED ITEM:050428311806,NaCl 0.65% - NASAL SPRAY, , Fri 01/03/2020, 14:29:50.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/03/2020, 14:30:01.99
+AdministrationHelper:Login, , Wed 01/08/2020, 15:20:51.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/08/2020, 15:21:06.66
+AdministrationHelper:Login, , Tue 01/14/2020, 11:06:52.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:06:56.74
+AddDrugs:Login, , Tue 01/14/2020, 11:07:07.03
+AddDrugs:ADDED ITEM:69168002330,acetaminophen 80 mg - TABLET, , Tue 01/14/2020, 11:07:35.22
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:07:45.32
+AdministrationHelper:Login, , Tue 01/14/2020, 11:08:32.24
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:08:35.41
+AddDrugs:Login, , Tue 01/14/2020, 11:08:48.09
+AddDrugs:ADDED ITEM:69168002330,acetaminophen 80 mg - TABLET, , Tue 01/14/2020, 11:09:13.33
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:09:31.69
+AdministrationHelper:Login, , Tue 01/14/2020, 11:27:04.73
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:27:08.82
+AddDrugs:Login, , Tue 01/14/2020, 11:27:21.12
+AddDrugs:ADDED ITEM:00113002571,acetaminophen 500 mg - CAPSULE, , Tue 01/14/2020, 11:28:25.24
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:28:41.97
+AdministrationHelper:Login, , Tue 01/14/2020, 11:31:00.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:31:02.93
+AddDrugs:Login, , Tue 01/14/2020, 11:31:15.26
+AddDrugs:ADDED ITEM:00472120350,acetaminophen 650 mg - SUPPOSITORY, , Tue 01/14/2020, 11:32:04.69
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Tue 01/14/2020, 11:32:19.33
+AdministrationHelper:Login, , Tue 01/14/2020, 11:33:10.95
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:33:12.38
+AddDrugs:Login, , Tue 01/14/2020, 11:33:28.89
+AddDrugs:ADDED ITEM:00472120350,acetaminophen 650 mg - SUPPOSITORY, , Tue 01/14/2020, 11:33:59.73
+AddDrugs:ADDED ITEM:cance1,acetaminophen 650 mg - SUPPOSITORY, , Tue 01/14/2020, 11:34:34.13
+AdministrationHelper:Login, , Tue 01/14/2020, 11:35:26.56
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:35:29.54
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:36:01.80
+AdministrationHelper:Login, , Tue 01/14/2020, 11:36:38.23
+AddDrugs:Login, , Tue 01/14/2020, 11:36:41.74
+AddDrugs:ADDED ITEM:00472120350,acetaminophen 650 mg - SUPPOSITORY, , Tue 01/14/2020, 11:37:15.88
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:37:30.52
+AdministrationHelper:Login, , Tue 01/14/2020, 11:40:55.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:40:58.14
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 11:43:02.36
+AdministrationHelper:Login, , Tue 01/14/2020, 12:01:29.57
+AddDrugs:Login, , Tue 01/14/2020, 12:01:56.15
+AddDrugs:ADDED ITEM:64725001201,benztropine 1 mg per mL - INJECTION, , Tue 01/14/2020, 12:02:32.25
+AddDrugs:ADDED ITEM:cance1,cance1, , Tue 01/14/2020, 12:02:56.89
+AddDrugs:ADDED ITEM:64725001201,benztropine 1 mg per mL - INJECTION, , Tue 01/14/2020, 12:03:45.90
+AdministrationHelper:Login, , Tue 01/14/2020, 12:04:07.91
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:04:19.57
+AddDrugs:Login, , Tue 01/14/2020, 12:05:00.30
+AddDrugs:ADDED ITEM:64725001201,benztropine 1 mg per mL - INJECTION, , Tue 01/14/2020, 12:05:26.07
+AdministrationHelper:Login, , Tue 01/14/2020, 12:07:22.88
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:07:26.29
+AddDrugs:Login, , Tue 01/14/2020, 12:08:30.48
+AddDrugs:ADDED ITEM:64725001201,benztropin 1 mg per mL - INJECTION, , Tue 01/14/2020, 12:09:00.86
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:09:11.96
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 01/14/2020, 12:11:15.29
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:11:18.43
+AdministrationHelper:Login, , Tue 01/14/2020, 12:13:10.70
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:13:11.90
+AdministrationHelper:Login, , Tue 01/14/2020, 12:21:06.31
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:21:09.94
+AdministrationHelper:Login, , Tue 01/14/2020, 12:26:14.95
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:26:19.27
+AddDrugs:Login, , Tue 01/14/2020, 12:27:15.89
+AddDrugs:ADDED ITEM:00143992805,ciprofloxacin 500 mg - TABLET, , Tue 01/14/2020, 12:27:42.00
+AddDrugs:ADDED ITEM:cance1,cance1, , Tue 01/14/2020, 12:28:00.63
+AdministrationHelper:Login, , Tue 01/14/2020, 12:28:11.55
+AddDrugs:Login, , Tue 01/14/2020, 12:28:13.73
+AddDrugs:ADDED ITEM:00143992805,ciprofloxacin 500 mg - TABLET, , Tue 01/14/2020, 12:28:42.40
+AddDrugs:ADDED ITEM:cance1,ciprofloxacin 500 mg - TABLET, , Tue 01/14/2020, 12:29:12.47
+AddDrugs:Login, , Tue 01/14/2020, 12:29:52.59
+AddDrugs:ADDED ITEM:21695091440,ciprofffloxacin 400 mg in 40 mL - SOLUTION, , Tue 01/14/2020, 12:30:34.04
+AdministrationHelper:Login, , Tue 01/14/2020, 12:31:32.93
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:31:36.19
+AddDrugs:Login, , Tue 01/14/2020, 12:32:27.04
+AddDrugs:ADDED ITEM:21695091440,ciprofloxacin 400 mg in 40 mL - SOLUTION, , Tue 01/14/2020, 12:33:03.25
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Tue 01/14/2020, 12:34:03.09
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:34:06.57
+AdministrationHelper:Login, , Tue 01/14/2020, 12:37:28.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:37:38.67
+AddDrugs:Login, , Tue 01/14/2020, 12:37:57.55
+AddDrugs:ADDED ITEM:00009039514,clindamycin 300 mg - CAPSULE, , Tue 01/14/2020, 12:38:27.73
+AdministrationHelper:Login, , Tue 01/14/2020, 12:39:12.35
+AddDrugs:Login, , Tue 01/14/2020, 12:39:14.80
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:39:40.74
+AddDrugs:Login, , Tue 01/14/2020, 12:39:54.98
+AddDrugs:ADDED ITEM:00009039514,clindamycin 300 mg - CAPSULE, , Tue 01/14/2020, 12:40:37.31
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Tue 01/14/2020, 12:40:46.54
+AdministrationHelper:Login, , Tue 01/14/2020, 12:41:34.81
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Tue 01/14/2020, 12:41:42.20
+AdministrationHelper:Login, , Wed 01/15/2020, 14:14:38.31
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 14:14:42.82
+AddDrugs:Login, , Wed 01/15/2020, 14:15:53.97
+AddDrugs:ADDED ITEM:00264751000,dextrose 5% and NaCl 0.25% - INJECTION, , Wed 01/15/2020, 14:17:26.45
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 14:18:20.88
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 14:18:23.87
+AdministrationHelper:Login, , Wed 01/15/2020, 15:07:04.74
+AddDrugs:Login, , Wed 01/15/2020, 15:07:07.96
+AddDrugs:ADDED ITEM:00187204730,dilTIAZem 240 mg - TABLET, , Wed 01/15/2020, 15:07:39.33
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Wed 01/15/2020, 15:07:47.02
+AddDrugs:ADDED ITEM:00187204730,dilTIAZem 240 mg - TABLET, , Wed 01/15/2020, 15:08:22.04
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:08:30.59
+AdministrationHelper:Login, , Wed 01/15/2020, 15:11:34.78
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:11:37.56
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 15:15:32.51
+AddDrugs:Login, , Wed 01/15/2020, 15:15:39.60
+AddDrugs:ADDED ITEM:00187204730,dilTIAZem 240 mg - TABLET, , Wed 01/15/2020, 15:16:13.38
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 15:16:36.75
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:16:39.15
+AdministrationHelper:Login, , Wed 01/15/2020, 15:25:13.47
+AddDrugs:Login, , Wed 01/15/2020, 15:25:21.97
+AddDrugs:ADDED ITEM:00187204730,dilTIAZem 240 mg - TABLET, , Wed 01/15/2020, 15:25:53.61
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 15:26:05.81
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 15:26:15.53
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:26:21.53
+AdministrationHelper:Login, , Wed 01/15/2020, 15:30:14.22
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:30:16.59
+AddDrugs:Login, , Wed 01/15/2020, 15:30:31.96
+AddDrugs:ADDED ITEM:00074712611,divalproex sodium 500 mg - TABLET, , Wed 01/15/2020, 15:31:08.07
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:31:17.95
+AdministrationHelper:Login, , Wed 01/15/2020, 15:33:35.09
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:33:36.03
+AdministrationHelper:Login, , Wed 01/15/2020, 15:41:16.74
+AddDrugs:Login, , Wed 01/15/2020, 15:41:18.75
+AddDrugs:ADDED ITEM:27437029806,DULoxetine 40 mg - CAPSULE, , Wed 01/15/2020, 15:41:48.00
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 15:41:58.95
+AdministrationHelper:Login, , Wed 01/15/2020, 16:23:31.87
+AddDrugs:Login, , Wed 01/15/2020, 16:23:37.19
+AddDrugs:ADDED ITEM:67457043322,famotidine 10 mg per mL - INJECTION, , Wed 01/15/2020, 16:24:09.04
+AddDrugs:ADDED ITEM:cance1,famotidine 10 mg per mL - INJECTION, , Wed 01/15/2020, 16:24:46.14
+AdministrationHelper:Login, , Wed 01/15/2020, 16:25:29.12
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:25:30.66
+AddDrugs:Login, , Wed 01/15/2020, 16:26:32.69
+AddDrugs:ADDED ITEM:67457043322,famotidine 10 mg per mL - INJECTION, , Wed 01/15/2020, 16:27:29.04
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:27:39.15
+AdministrationHelper:Login, , Wed 01/15/2020, 16:32:36.05
+AddDrugs:Login, , Wed 01/15/2020, 16:32:38.78
+AddDrugs:ADDED ITEM:664113331057,fentynl 50 mcg per hour - Demo Dose, , Wed 01/15/2020, 16:33:43.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:33:49.99
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 16:36:47.81
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:36:52.52
+AddDrugs:Login, , Wed 01/15/2020, 16:40:05.79
+AddDrugs:ADDED ITEM:00039006710,furosemide 20 mg - TABLET, , Wed 01/15/2020, 16:40:32.76
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 16:41:10.42
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:41:12.42
+AdministrationHelper:Login, , Wed 01/15/2020, 16:45:47.13
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:45:51.02
+AddDrugs:Login, , Wed 01/15/2020, 16:46:20.49
+AddDrugs:ADDED ITEM:00049017402,glipiZIDE 5 mg - TABLET, , Wed 01/15/2020, 16:46:50.10
+AddDrugs:ADDED ITEM:cance1,glipiZIDE 5 mg - TABLET, , Wed 01/15/2020, 16:47:27.43
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Wed 01/15/2020, 16:48:00.70
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:48:03.59
+AdministrationHelper:Login, , Wed 01/15/2020, 16:58:07.55
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 16:58:12.00
+AdministrationHelper:Login, , Wed 01/15/2020, 16:59:35.43
+AddDrugs:Login, , Wed 01/15/2020, 16:59:38.27
+AddDrugs:ADDED ITEM:00069006201,heparin 10,000 units per mL - INJECTION, , Wed 01/15/2020, 17:00:29.50
+AddDrugs:ADDED ITEM:cance1,heparin 10,000 units per mL - INJECTIONC0NF1RM, , Wed 01/15/2020, 17:01:03.49
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 17:01:11.60
+AdministrationHelper:Login, , Wed 01/15/2020, 17:02:48.99
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 17:02:51.55
+AdministrationHelper:Login, , Wed 01/15/2020, 17:05:27.04
+AddDrugs:Login, , Wed 01/15/2020, 17:05:47.54
+AddDrugs:ADDED ITEM:94365252,HYDROmorphone 1 mg per mL - INJECTION, , Wed 01/15/2020, 17:06:24.04
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 17:06:31.09
+AdministrationHelper:Login, , Wed 01/15/2020, 17:08:02.82
+AddDrugs:Login, , Wed 01/15/2020, 17:08:04.94
+AddDrugs:ADDED ITEM:00093506201,hydrOXYzine 50 mg - TABLET, , Wed 01/15/2020, 17:08:34.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 17:08:40.52
+AdministrationHelper:Login, , Wed 01/15/2020, 17:11:01.42
+AddDrugs:Login, , Wed 01/15/2020, 17:11:03.34
+AddDrugs:ADDED ITEM:00179011990,ibuprofen 800 mg - TABLET, , Wed 01/15/2020, 17:11:25.34
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 01/15/2020, 17:11:31.05
+AdministrationHelper:Login, , Thu 01/16/2020,  9:32:26.64
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020,  9:32:50.31
+AdministrationHelper:Login, , Thu 01/16/2020,  9:42:30.66
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020,  9:42:32.84
+AdministrationHelper:Login, , Thu 01/16/2020, 13:57:08.44
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 13:57:10.93
+AddDrugs:Login, , Thu 01/16/2020, 13:58:56.43
+AddDrugs:ADDED ITEM:04099707426,KCl 10 mEq in 5% Dextrose and 0.45% NaCl - SOLUTION, , Thu 01/16/2020, 14:00:06.34
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Thu 01/16/2020, 14:00:10.39
+AdministrationHelper:Login, , Thu 01/16/2020, 14:00:25.87
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:00:28.09
+AddDrugs:Login, , Thu 01/16/2020, 14:01:05.59
+AddDrugs:ADDED ITEM:04099707426,KCl 10 mEq in 5% Dextrose and 0.45% NaCl 50 mL - SOLUTION, , Thu 01/16/2020, 14:02:15.97
+AddDrugs:Login, , Thu 01/16/2020, 14:02:38.05
+AddDrugs:ADDED ITEM:0409711609,KCl 20 mEq in 0.8% NaCl 500 mL - SOLUTION, , Thu 01/16/2020, 14:03:36.85
+AddDrugs:ADDED ITEM:cance1,KCl 20 mEq in 0.8% NaCl 500 mL - SOLUTION, , Thu 01/16/2020, 14:04:26.06
+AdministrationHelper:Login, , Thu 01/16/2020, 14:05:02.16
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:05:07.28
+AddDrugs:Login, , Thu 01/16/2020, 14:07:20.05
+AddDrugs:ADDED ITEM:0409711609,KCl 20 mEq in 0.8% NaCl 500 mL - SOLUTION, , Thu 01/16/2020, 14:08:05.20
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Thu 01/16/2020, 14:08:11.06
+AdministrationHelper:Login, , Thu 01/16/2020, 14:08:41.87
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:08:56.37
+AddDrugs:Login, , Thu 01/16/2020, 14:10:13.10
+AddDrugs:ADDED ITEM:0409711609,KCl 20 mEq in NSS 500 mL - SOLUTION, , Thu 01/16/2020, 14:10:54.75
+AddDrugs:Login, , Thu 01/16/2020, 14:11:28.14
+AddDrugs:ADDED ITEM:02647623,KCl 20 mEq in D5 and 0.45% NaCl 500 mL - SOLUTION, , Thu 01/16/2020, 14:12:22.16
+AdministrationHelper:Login, , Thu 01/16/2020, 14:13:06.15
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:13:08.98
+AdministrationHelper:Login, , Thu 01/16/2020, 14:16:14.91
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:16:50.51
+AddDrugs:Login, , Thu 01/16/2020, 14:19:35.94
+AddDrugs:ADDED ITEM:00143962301,labetalol hydrochloride 5 mg per mL - INJECTION, , Thu 01/16/2020, 14:20:16.39
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Thu 01/16/2020, 14:20:30.00
+AdministrationHelper:Login, , Thu 01/16/2020, 14:20:54.25
+AddDrugs:Login, , Thu 01/16/2020, 14:20:57.84
+AddDrugs:ADDED ITEM:00143977505,levoFFLOXacin 750 mg - TABLET, , Thu 01/16/2020, 14:21:25.07
+AddDrugs:Login, , Thu 01/16/2020, 14:21:41.66
+AddDrugs:ADDED ITEM:00143962301,labetalol hydrochloride 5 mg per mL - INJECTION, , Thu 01/16/2020, 14:22:21.94
+AddDrugs:Login, , Thu 01/16/2020, 14:22:31.00
+AddDrugs:ADDED ITEM:00172436560,labetalol hydrochloride 200 mg - TABLET, , Thu 01/16/2020, 14:23:03.21
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 14:23:10.54
+AdministrationHelper:Login, , Thu 01/16/2020, 16:21:05.48
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:21:08.37
+AdministrationHelper:Login, , Thu 01/16/2020, 16:30:17.34
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:30:19.54
+AddDrugs:Login, , Thu 01/16/2020, 16:30:59.17
+AddDrugs:ADDED ITEM:00143972024,levoFLOXacin 750 mg in 0.8% NaCl 50 mL - SOLUTION, , Thu 01/16/2020, 16:31:55.07
+AddDrugs:ADDED ITEM:cance1,levoFLOXacin 750 mg in NSS 50 mL - SOLUTION, , Thu 01/16/2020, 16:32:50.01
+AdministrationHelper:Login, , Thu 01/16/2020, 16:33:06.49
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:33:09.72
+AdministrationHelper:Login, , Thu 01/16/2020, 16:36:55.65
+AddDrugs:Login, , Thu 01/16/2020, 16:36:59.10
+AddDrugs:ADDED ITEM:00143972024,levoFLOXacin 760 mg in NSS 50 mL - SOLUTION, , Thu 01/16/2020, 16:37:48.64
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:37:57.88
+AdministrationHelper:Login, , Thu 01/16/2020, 16:39:52.10
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:39:57.98
+AddDrugs:Login, , Thu 01/16/2020, 16:40:23.16
+AddDrugs:ADDED ITEM:00143972024,levoFLOXacin 750 mg in NSS 50 mL - SOLUTION, , Thu 01/16/2020, 16:41:08.04
+AdministrationHelper:Login, , Thu 01/16/2020, 16:41:42.10
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Thu 01/16/2020, 16:41:44.52
+AdministrationHelper:Login, , Fri 01/17/2020, 11:19:31.90
+AdministrationHelper:Login, , Fri 01/17/2020, 11:49:02.35
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 11:49:04.59
+AddDrugs:Login, , Fri 01/17/2020, 11:49:34.75
+AddDrugs:ADDED ITEM:00187006550,LORazepam 2 mg - TABLET, , Fri 01/17/2020, 11:49:57.37
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 01/17/2020, 11:50:40.49
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 11:50:42.44
+AdministrationHelper:Login, , Fri 01/17/2020, 11:53:32.96
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 11:53:37.63
+AddDrugs:Login, , Fri 01/17/2020, 11:54:04.79
+AddDrugs:ADDED ITEM:00054353244,LORazepam 2 mg per mL - SOLUTION, , Fri 01/17/2020, 11:54:41.91
+AdministrationHelper:Login, , Fri 01/17/2020, 11:55:47.84
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 11:55:50.13
+AdministrationHelper:Login, , Fri 01/17/2020, 11:56:55.37
+AddDrugs:Login, , Fri 01/17/2020, 11:56:57.74
+AddDrugs:ADDED ITEM:00093736510,losartan 50 mg - TABLET, , Fri 01/17/2020, 11:57:17.13
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 01/17/2020, 11:57:57.58
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 11:57:59.47
+AdministrationHelper:Login, , Fri 01/17/2020, 12:01:46.06
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 12:01:46.73
+AddDrugs:Login, , Fri 01/17/2020, 13:32:17.90
+AddDrugs:ADDED ITEM:050428743287,magnesium hydroxide 200 mg per 5 mL - SUSPENSION, , Fri 01/17/2020, 13:32:53.50
+AddDrugs:ADDED ITEM:cance1,magnesiun hydroxide 200 mg per 5 mL - SUSPENSION, , Fri 01/17/2020, 13:33:28.04
+AdministrationHelper:Login, , Fri 01/17/2020, 13:33:45.40
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:33:47.08
+AdministrationHelper:Login, , Fri 01/17/2020, 13:35:44.96
+AddDrugs:Login, , Fri 01/17/2020, 13:35:47.92
+AddDrugs:ADDED ITEM:050428743287,magnesium hydroxide 200 mg per 5 mL - SUSPENSION, , Fri 01/17/2020, 13:36:21.98
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:36:30.09
+AdministrationHelper:Login, , Fri 01/17/2020, 13:42:40.14
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:42:42.10
+AddDrugs:Login, , Fri 01/17/2020, 13:43:13.52
+AddDrugs:ADDED ITEM:52533009929,magnesium sulfate 30 g in 500 mL - SOLUTION, , Fri 01/17/2020, 13:43:49.45
+AddDrugs:Login, , Fri 01/17/2020, 13:44:04.92
+AddDrugs:ADDED ITEM:00409672909,magnesium sulfate 4 g in 100 mL - SOLUTION, , Fri 01/17/2020, 13:44:50.51
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:44:58.32
+AdministrationHelper:Login, , Fri 01/17/2020, 13:52:09.09
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:52:13.17
+AddDrugs:Login, , Fri 01/17/2020, 13:52:43.00
+AddDrugs:ADDED ITEM:00378110391,memantine 5 g - TABLET, , Fri 01/17/2020, 13:53:05.25
+AdministrationHelper:Login, , Fri 01/17/2020, 13:54:24.93
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:54:26.60
+AddDrugs:Login, , Fri 01/17/2020, 13:55:16.89
+AddDrugs:ADDED ITEM:00185021305,metFORMIN 500 mg - TABLET, , Fri 01/17/2020, 13:55:54.38
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 13:56:02.73
+AdministrationHelper:Login, , Fri 01/17/2020, 14:19:19.52
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 14:19:24.05
+AdministrationHelper:Login, , Fri 01/17/2020, 14:21:09.42
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 14:21:12.42
+AdministrationHelper:Login, , Fri 01/17/2020, 14:23:04.35
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 14:23:07.14
+AdministrationHelper:Login, , Fri 01/17/2020, 15:07:18.84
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 15:07:23.09
+AdministrationHelper:Login, , Fri 01/17/2020, 15:15:32.84
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 15:15:35.51
+AddDrugs:Login, , Fri 01/17/2020, 15:17:47.91
+AddDrugs:ADDED ITEM:00378522293,omeprozole 40 mg - CAPSULE, , Fri 01/17/2020, 15:18:16.36
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 01/17/2020, 15:18:47.31
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/17/2020, 15:18:50.40
+AdministrationHelper:Login, , Mon 01/20/2020,  9:54:38.03
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020,  9:55:25.92
+AdministrationHelper:Login, , Mon 01/20/2020, 10:33:28.44
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 10:33:32.85
+AddDrugs:Login, , Mon 01/20/2020, 10:34:38.28
+AddDrugs:ADDED ITEM:00378611201,oxyCODONE 5 mg - TABLET, , Mon 01/20/2020, 10:35:04.85
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 10:35:13.07
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 01/20/2020, 10:37:16.37
+AddDrugs:Login, , Mon 01/20/2020, 10:37:19.27
+AddDrugs:ADDED ITEM:52533005430,oxytocin 30 units in 500 mL LR - SOLUTION, , Mon 01/20/2020, 10:37:55.89
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Mon 01/20/2020, 10:38:41.17
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 10:38:42.72
+AddDrugs:Login, , Mon 01/20/2020, 10:41:02.18
+AddDrugs:ADDED ITEM:52533005030,oxytocin 20 mg in 1000 mL LR - SOLUTION, , Mon 01/20/2020, 10:41:43.72
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Mon 01/20/2020, 10:41:50.34
+AddDrugs:ADDED ITEM:c0nf1rm,cance1, , Mon 01/20/2020, 10:41:55.05
+AdministrationHelper:Login, , Mon 01/20/2020, 10:42:39.90
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 10:42:45.02
+AdministrationHelper:Login, , Mon 01/20/2020, 14:39:16.83
+AddDrugs:Login, , Mon 01/20/2020, 14:39:22.17
+AddDrugs:ADDED ITEM:00206240502,piperacillin and tazobactam 3.375 g per 50 mL - INJECTION, , Mon 01/20/2020, 14:40:12.41
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Mon 01/20/2020, 14:40:24.97
+AdministrationHelper:Login, , Mon 01/20/2020, 14:40:54.16
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 14:40:57.89
+AddDrugs:Login, , Mon 01/20/2020, 14:42:05.34
+AddDrugs:ADDED ITEM:67457052122,piperacillin sodium 1 g in 50 mL D5W - INJECTION, , Mon 01/20/2020, 14:42:53.56
+AddDrugs:Login, , Mon 01/20/2020, 14:43:04.47
+AddDrugs:ADDED ITEM:00206240502,piperacillin and tazobactam 3.375 g per 50 mL - INJECTION, , Mon 01/20/2020, 14:43:49.16
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 14:43:55.95
+AdministrationHelper:Login, , Mon 01/20/2020, 15:11:17.65
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 15:11:21.95
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 15:14:32.88
+AdministrationHelper:Login, , Mon 01/20/2020, 15:18:45.87
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Mon 01/20/2020, 15:18:49.08
+AdministrationHelper:Login, , Wed 01/29/2020, 14:14:04.93
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 01/31/2020,  7:58:41.24
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Fri 01/31/2020,  7:58:44.42
+AdministrationHelper:Login, , Fri 01/31/2020, 10:08:44.35
+AdministrationHelper:Login, , Wed 02/05/2020,  7:51:46.58
+AddDrugs:Login, , Wed 02/05/2020,  7:51:53.61
+AddDrugs:ADDED ITEM:54868572500,EPINEPHrine 0.1 mg per mL - INJECTION, , Wed 02/05/2020,  7:52:51.27
+AddDrugs:ADDED ITEM:cance1,c0nf1rm, , Wed 02/05/2020,  7:52:59.99
+AdministrationHelper:Login, , Wed 02/05/2020,  7:54:10.74
+AddDrugs:Login, , Wed 02/05/2020,  7:54:38.79
+AddDrugs:ADDED ITEM:54868572500,EPINEPHrine 0.1 mg per mL - INJECTION, , Wed 02/05/2020,  7:55:50.50
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 02/05/2020,  7:56:06.72
+AdministrationHelper:Login, , Wed 02/05/2020,  8:23:17.97
+AddDrugs:Login, , Wed 02/05/2020,  8:23:20.72
+AddDrugs:ADDED ITEM:00591024010,LORazepam 0.5 mg - TABLET, , Wed 02/05/2020,  8:23:49.61
+AdministrationHelper:Login, , Wed 02/05/2020,  8:24:09.08
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 02/05/2020,  8:24:11.71
+AdministrationHelper:Login, , Wed 02/05/2020,  8:35:22.92
+AdministrationHelper:EDITING MASTER 'DRUGS.CSV', , Wed 02/05/2020,  8:35:25.15
+AdministrationHelper:Login, , Fri 03/06/2020, 11:31:34.17
+AdministrationHelper:EDITING PATIENTS, , Fri 03/06/2020, 11:31:51.78
+AdministrationHelper:Login, , Fri 03/06/2020, 13:54:57.32
+AdministrationHelper:EDITING PATIENTS, , Fri 03/06/2020, 13:54:59.28
+LOGOUT------------------------------------------------------------------------------
+AdministrationHelper:Login, , Fri 06/25/2021, 14:54:15.88
+AdministrationHelper:EDITING PATIENTS, , Fri 06/25/2021, 14:54:27.43
