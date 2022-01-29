@@ -1,5 +1,5 @@
 ::MEDS Medication Education Dispensing System
-::writen 3.12.2018 by Nicholai Best at PA College of Health Sciences
+::writen 3.12.2018 by Nicholai Best
 ::website:  pacollege.edu
 ::email:nicholai.best@gmail.com
 
@@ -41,7 +41,7 @@
 ::THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
 ::====================================================================================================================================
 
-::Last worked date:		10/08/2021
+::Last worked date:		1/28/2022
 set SoftVer=1.5.2
 ::a med record number is scanned and the corisponding MAR is opened
 ::a log file(\students\%UserLog%) contains user, and patients opened
