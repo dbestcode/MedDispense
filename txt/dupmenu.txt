@@ -1,0 +1,6 @@
+
+	1 Create Duplicate Report
+	2 Remove All Duplicates
+	
+	or any other key to exit...
+	

@@ -1,0 +1,18 @@
+ +------------+
+ +   HOW TO   +
+ +------------+
+
+1) Scan or type the ID band or MAR BARCODE for your patient.
+
+2) A PDF MAR will open, you can verifiy you orders here.
+
+3) Scan all medications and supplies you want to use
+      e.x. Take 3 pills, scan thepill bottle 3 times 
+ 
+When you're finished with a patient type 'd' and hit enter
+You may scan a new patient or press 'x' to close the Pixis
+If this EMAR is closed it can be reopened on the desktop.
+
+----------!!!NOTE!!!-----------
+Only medications with have already been entered prior to your shift will apear in this MAR.
+Orders given by phone will not be visible here.
